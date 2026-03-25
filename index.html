@@ -1,161 +1,67 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>데일리 리포트</title>
-  <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-      background: #f6f6ef;
-      color: #333;
-      line-height: 1.5;
-    }
-    header {
-      background: #ff6600;
-      padding: 6px 12px;
-      display: flex;
-      align-items: center;
-      gap: 12px;
-    }
-    header h1 {
-      font-size: 14px;
-      font-weight: 700;
-      color: #000;
-    }
-    header h1 a { color: #000; text-decoration: none; }
-    .container {
-      max-width: 780px;
-      margin: 0 auto;
-      padding: 12px;
-    }
-    .day-group {
-      margin-bottom: 24px;
-    }
-    .day-date {
-      font-size: 13px;
-      color: #828282;
-      padding: 4px 0;
-      border-bottom: 1px solid #e0e0e0;
-      margin-bottom: 8px;
-    }
-    .report-item {
-      margin-bottom: 16px;
-    }
-    .report-title {
-      font-size: 15px;
-      font-weight: 600;
-      margin-bottom: 2px;
-      cursor: pointer;
-      user-select: none;
-    }
-    .report-title:hover { color: #ff6600; }
-    .report-title .toggle {
-      font-size: 11px;
-      color: #828282;
-      margin-left: 4px;
-    }
-    .report-highlight {
-      font-size: 13px;
-      color: #666;
-      margin-bottom: 4px;
-    }
-    .report-content {
-      font-size: 13px;
-      color: #444;
-      padding: 8px 0 0 0;
-      display: none;
-    }
-    .report-content.open { display: block; }
-    .report-content p { margin-bottom: 6px; }
-    .report-content ul { margin: 4px 0 8px 20px; }
-    .report-content li { margin-bottom: 2px; }
-    .report-content .green { color: #2e7d32; font-weight: 600; }
-    .report-content .red { color: #c62828; font-weight: 600; }
-    .separator {
-      border: none;
-      border-top: 1px solid #e8e8e8;
-      margin: 8px 0;
-    }
-    footer {
-      text-align: center;
-      padding: 20px;
-      font-size: 12px;
-      color: #828282;
-    }
-    .loading { text-align: center; padding: 40px; color: #828282; font-size: 14px; }
-    @media (max-width: 600px) {
-      .container { padding: 8px; }
-      .report-title { font-size: 14px; }
-    }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Report</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: #f6f6ef; color: #333; font-family: 'Menlo', 'Monaco', 'Courier New', monospace; font-size: 14px; line-height: 1.6; max-width: 780px; margin: 0 auto; padding: 16px; }
+header { border-bottom: 2px solid #ff6600; padding: 8px 0 12px; margin-bottom: 24px; }
+header h1 { font-size: 18px; color: #ff6600; font-weight: bold; }
+header h1 a { color: #ff6600; text-decoration: none; }
+.date-group { margin-bottom: 32px; }
+.date-header { font-size: 15px; font-weight: bold; color: #828282; margin-bottom: 16px; border-bottom: 1px solid #ccc; padding-bottom: 4px; }
+.report { margin-bottom: 24px; }
+.report-title { font-size: 15px; font-weight: bold; margin-bottom: 6px; }
+.highlight { color: #000; font-weight: bold; margin-bottom: 8px; }
+.indices { white-space: pre-wrap; color: #555; margin-bottom: 8px; font-size: 13px; }
+.items { list-style: none; padding: 0; }
+.items li { padding: 2px 0; }
+.items li::before { content: "▸ "; color: #ff6600; }
+.section-title { font-weight: bold; margin-top: 10px; margin-bottom: 4px; color: #555; }
+.watchpoints { margin-top: 8px; color: #828282; font-size: 13px; }
+.watchpoints li::before { content: "👀 "; }
+.community { margin-top: 8px; }
+.community li::before { content: "💬 "; color: #828282; }
+.loading { color: #828282; padding: 20px 0; }
+footer { border-top: 1px solid #ccc; padding-top: 8px; margin-top: 32px; color: #828282; font-size: 12px; }
+@media (max-width: 600px) { body { font-size: 13px; padding: 12px; } }
+</style>
 </head>
 <body>
-  <header>
-    <h1><a href="/">📊 데일리 리포트</a></h1>
-  </header>
-  <div class="container">
-    <div id="feed" class="loading">로딩 중...</div>
-  </div>
-  <footer>노다지 데일리 리포트</footer>
-
-  <script>
-    (async function() {
-      const feed = document.getElementById('feed');
-      try {
-        const res = await fetch('reports/index.json');
-        const dates = await res.json();
-
-        if (!dates.length) {
-          feed.innerHTML = '<p>아직 리포트가 없습니다.</p>';
-          return;
+<header><h1><a href="/">Daily Report</a></h1></header>
+<main id="content"><p class="loading">Loading...</p></main>
+<footer>daily-report — static feed</footer>
+<script>
+(async () => {
+  const main = document.getElementById('content');
+  try {
+    const idx = await (await fetch('reports/index.json')).json();
+    const dates = [...idx].sort().reverse();
+    let html = '';
+    for (const date of dates) {
+      const data = await (await fetch(`reports/${date}.json`)).json();
+      html += `<div class="date-group"><div class="date-header">${data.date}</div>`;
+      for (const r of data.reports) {
+        html += `<div class="report"><div class="report-title">${r.emoji} ${r.title}</div>`;
+        html += `<div class="highlight">${r.highlight}</div>`;
+        if (r.indices) html += `<div class="indices">${r.indices}</div>`;
+        if (r.items) html += `<ul class="items">${r.items.map(i => `<li>${i}</li>`).join('')}</ul>`;
+        if (r.sections) {
+          for (const [k, v] of Object.entries(r.sections)) {
+            html += `<div class="section-title">${k}</div><ul class="items">${v.map(i => `<li>${i}</li>`).join('')}</ul>`;
+          }
         }
-
-        // dates are already newest-first in index.json
-        const fragments = [];
-
-        for (const date of dates) {
-          const r = await fetch(`reports/${date}.json`);
-          const data = await r.json();
-
-          let html = `<div class="day-group">`;
-          html += `<div class="day-date">${formatDate(data.date)}</div>`;
-
-          data.reports.forEach((report, i) => {
-            const id = `${date}-${report.type}`;
-            html += `<div class="report-item">`;
-            html += `<div class="report-title" onclick="toggleReport('${id}')">${report.title} <span class="toggle" id="arrow-${id}">▶</span></div>`;
-            html += `<div class="report-highlight">${report.highlight}</div>`;
-            html += `<div class="report-content" id="${id}">${report.content}</div>`;
-            html += `</div>`;
-            if (i < data.reports.length - 1) html += `<hr class="separator">`;
-          });
-
-          html += `</div>`;
-          fragments.push(html);
-        }
-
-        feed.className = '';
-        feed.innerHTML = fragments.join('');
-      } catch (e) {
-        feed.innerHTML = '<p>리포트를 불러오는데 실패했습니다.</p>';
-        console.error(e);
+        if (r.watchpoints) html += `<ul class="items watchpoints">${r.watchpoints.map(i => `<li>${i}</li>`).join('')}</ul>`;
+        if (r.community) html += `<ul class="items community">${r.community.map(i => `<li>${i}</li>`).join('')}</ul>`;
+        html += '</div>';
       }
-    })();
-
-    function toggleReport(id) {
-      const el = document.getElementById(id);
-      const arrow = document.getElementById('arrow-' + id);
-      el.classList.toggle('open');
-      arrow.textContent = el.classList.contains('open') ? '▼' : '▶';
+      html += '</div>';
     }
-
-    function formatDate(dateStr) {
-      const d = new Date(dateStr + 'T00:00:00');
-      const days = ['일', '월', '화', '수', '목', '금', '토'];
-      return `${d.getFullYear()}년 ${d.getMonth() + 1}월 ${d.getDate()}일 (${days[d.getDay()]})`;
-    }
-  </script>
+    main.innerHTML = html;
+  } catch (e) { main.innerHTML = '<p>Failed to load reports.</p>'; }
+})();
+</script>
 </body>
 </html>
