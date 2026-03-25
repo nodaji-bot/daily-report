@@ -118,6 +118,18 @@
           "url": "https://github.com/garrytan/gstack"
         }
       ]
+    },
+    {
+      "type": "realestate",
+      "emoji": "🏠",
+      "title": "부동산 뉴스",
+      "highlight": "테스트",
+      "items": [
+        {
+          "text": "테스트 기사",
+          "url": "https://example.com"
+        }
+      ]
     }
   ]
 }
