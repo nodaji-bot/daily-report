@@ -1,0 +1,23 @@
+{
+  "date": "2026-03-25",
+  "reports": [
+    {
+      "type": "market",
+      "title": "📈 모닝 마켓",
+      "highlight": "미국 하락장에도 코스피 2.08% 급등 — 이란 전쟁 우려 속 아시아 시장 독립성 확인",
+      "content": "<p>🇺🇸 S&amp;P 6,556 (<span class='red'>-0.37%</span>) · 나스닥 21,762 (<span class='red'>-0.84%</span>) · 다우 46,124 (<span class='red'>-0.18%</span>)</p><p>🇰🇷 코스피 5,669 (<span class='green'>+2.08%</span>) · 원/달러 1,380대</p><p>💰 BTC $70,779 (<span class='green'>+0.4%</span>) · DXY 약세</p><ul><li>이란 전쟁 장기화/유가 반등</li><li>개미 26조 매수로 외국인 매도 방어</li><li>트럼프 이란 공습 지연</li></ul><p><strong>주시포인트:</strong> 이란 협상 진전, 미국 기업실적 시즌</p>"
+    },
+    {
+      "type": "economy",
+      "title": "📰 경제 뉴스",
+      "highlight": "이란사태 협상 불확실성으로 글로벌 에너지 공급망 혼란 — 카타르 LNG 불가항력 선언",
+      "content": "<p><strong>🇰🇷 한국</strong></p><ul><li>서울 전세가 6억 돌파 눈앞</li><li>소비심리지수 5.1P 하락</li><li>카타르 LNG 불가항력 선언</li><li>추경안 의결 목표</li></ul><p><strong>🇺🇸 미국</strong></p><ul><li>유가 6% 급락</li><li>월가 혼조</li><li>아시아 증시 상승세</li></ul>"
+    },
+    {
+      "type": "ai",
+      "title": "🤖 AI 데일리",
+      "highlight": "OpenAI Foundation $1B 투자 발표",
+      "content": "<ul><li>Amazon Fauna Robotics 인수</li><li>Kleiner Perkins $3.5B AI 펀드</li><li>Claude Code Auto Mode</li><li>Sora 앱 종료</li><li>ARM AGI CPU</li></ul><p><strong>커뮤니티:</strong> Claude Code로 GunZ 포팅, gstack</p>"
+    }
+  ]
+}
