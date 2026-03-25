@@ -14,16 +14,21 @@ header h1 a { color: #ff6600; text-decoration: none; }
 .date-header { font-size: 15px; font-weight: bold; color: #828282; margin-bottom: 16px; border-bottom: 1px solid #ccc; padding-bottom: 4px; }
 .report { margin-bottom: 24px; }
 .report-title { font-size: 15px; font-weight: bold; margin-bottom: 6px; }
-.highlight { color: #000; font-weight: bold; margin-bottom: 8px; }
+.highlight { color: #000; font-weight: bold; margin-bottom: 4px; }
+.insight { color: #828282; font-style: italic; font-size: 13px; margin-bottom: 8px; line-height: 1.5; }
 .indices { white-space: pre-wrap; color: #555; margin-bottom: 8px; font-size: 13px; }
 .items { list-style: none; padding: 0; }
-.items li { padding: 2px 0; }
-.items li::before { content: "▸ "; color: #ff6600; }
+.items li { padding: 3px 0; }
+.items li .item-text::before { content: "▸ "; color: #ff6600; }
+.items li .item-insight { color: #828282; font-style: italic; font-size: 12px; margin-left: 14px; display: block; line-height: 1.4; }
+.item-text a { color: #333; text-decoration: none; border-bottom: 1px dotted #999; }
+.item-text a:hover { color: #ff6600; border-bottom-color: #ff6600; }
 .section-title { font-weight: bold; margin-top: 10px; margin-bottom: 4px; color: #555; }
 .watchpoints { margin-top: 8px; color: #828282; font-size: 13px; }
-.watchpoints li::before { content: "👀 "; }
+.watchpoints li .item-text::before { content: "👀 "; }
 .community { margin-top: 8px; }
-.community li::before { content: "💬 "; color: #828282; }
+.community li .item-text::before { content: "💬 "; color: #828282; }
+.community li .item-text a { color: #555; }
 .loading { color: #828282; padding: 20px 0; }
 footer { border-top: 1px solid #ccc; padding-top: 8px; margin-top: 32px; color: #828282; font-size: 12px; }
 @media (max-width: 600px) { body { font-size: 13px; padding: 12px; } }
@@ -34,6 +39,20 @@ footer { border-top: 1px solid #ccc; padding-top: 8px; margin-top: 32px; color: 
 <main id="content"><p class="loading">Loading...</p></main>
 <footer>daily-report — static feed</footer>
 <script>
+function renderItem(item) {
+  // Handle both old string format and new object format
+  if (typeof item === 'string') {
+    return `<li><span class="item-text">${item}</span></li>`;
+  }
+  const text = item.url
+    ? `<a href="${item.url}" target="_blank" rel="noopener">${item.text}</a>`
+    : item.text;
+  const insight = item.insight
+    ? `<span class="item-insight">→ ${item.insight}</span>`
+    : '';
+  return `<li><span class="item-text">${text}</span>${insight}</li>`;
+}
+
 (async () => {
   const main = document.getElementById('content');
   try {
@@ -46,15 +65,16 @@ footer { border-top: 1px solid #ccc; padding-top: 8px; margin-top: 32px; color: 
       for (const r of data.reports) {
         html += `<div class="report"><div class="report-title">${r.emoji} ${r.title}</div>`;
         html += `<div class="highlight">${r.highlight}</div>`;
+        if (r.insight) html += `<div class="insight">→ ${r.insight}</div>`;
         if (r.indices) html += `<div class="indices">${r.indices}</div>`;
-        if (r.items) html += `<ul class="items">${r.items.map(i => `<li>${i}</li>`).join('')}</ul>`;
+        if (r.items) html += `<ul class="items">${r.items.map(renderItem).join('')}</ul>`;
         if (r.sections) {
           for (const [k, v] of Object.entries(r.sections)) {
-            html += `<div class="section-title">${k}</div><ul class="items">${v.map(i => `<li>${i}</li>`).join('')}</ul>`;
+            html += `<div class="section-title">${k}</div><ul class="items">${v.map(renderItem).join('')}</ul>`;
           }
         }
-        if (r.watchpoints) html += `<ul class="items watchpoints">${r.watchpoints.map(i => `<li>${i}</li>`).join('')}</ul>`;
-        if (r.community) html += `<ul class="items community">${r.community.map(i => `<li>${i}</li>`).join('')}</ul>`;
+        if (r.watchpoints) html += `<ul class="items watchpoints">${r.watchpoints.map(w => `<li><span class="item-text">${w}</span></li>`).join('')}</ul>`;
+        if (r.community) html += `<ul class="items community">${r.community.map(renderItem).join('')}</ul>`;
         html += '</div>';
       }
       html += '</div>';

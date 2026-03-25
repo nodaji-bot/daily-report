@@ -6,30 +6,72 @@
       "emoji": "📈",
       "title": "모닝 마켓",
       "highlight": "미국 하락장에도 코스피 2.08% 급등 — 이란 전쟁 우려 속 아시아 시장 독립성 확인",
+      "insight": "외국인 매도에도 개인 투자자가 방어한 건 이례적. 중동 리스크가 해소되면 반등 여력이 큼을 시사.",
       "indices": "🇺🇸 S&P 6,556 (-0.37%) · 나스닥 21,762 (-0.84%) · 다우 46,124 (-0.18%)\n🇰🇷 코스피 5,669 (+2.08%) · 원/달러 1,380대\n💰 BTC $70,779 (+0.4%) · DXY 약세",
       "items": [
-        "이란 전쟁 장기화, 유가 반등으로 미국 증시 압박",
-        "개미 26조 매수로 외국인 22조 매도 방어 → 코스피 급등",
-        "트럼프 이란 공습 지연 → 원화 강세 + 협상 기대감"
+        {
+          "text": "이란 전쟁 장기화, 유가 반등으로 미국 증시 압박",
+          "insight": "에너지 비용 상승 → 인플레 재점화 우려. 연준 금리인하 기대 후퇴.",
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-iran-war-drags-on-oil-rebounds-200113329.html"
+        },
+        {
+          "text": "개미 26조 매수로 외국인 22조 매도 방어 → 코스피 급등",
+          "insight": "개인이 기관·외국인 동시 매도를 흡수한 건 2020년 이후 처음. 신용잔고 주의.",
+          "url": "https://www.chosun.com/english/market-money-en/2026/03/25/OFA3ZYWBCFANNNFOZNGY4CGVBA/"
+        },
+        {
+          "text": "트럼프 이란 공습 지연 → 원화 강세 + 협상 기대감",
+          "insight": "협상 성공 시 유가 하락 → 수출기업 수혜. 실패 시 1,400원대 재진입 가능.",
+          "url": "https://www.koreatimes.co.kr/economy/others/20260324/won-strengthens-kospi-rebounds-as-trump-delays-iran-strike"
+        }
       ],
-      "watchpoints": ["이란 협상 진전 여부 — 유가·달러 향방 결정", "미국 기업실적 시즌 본격화 — 빅테크 실적 주목"]
+      "watchpoints": [
+        "이란 협상 진전 여부 — 유가·달러 향방 결정",
+        "미국 기업실적 시즌 본격화 — 빅테크 실적 주목"
+      ]
     },
     {
       "type": "economy",
       "emoji": "📰",
       "title": "경제 뉴스",
       "highlight": "이란사태 협상 불확실성으로 글로벌 에너지 공급망 혼란 — 카타르 LNG 불가항력 선언",
+      "insight": "한국 LNG 수입의 약 20%가 카타르산. 불가항력 선언은 공급 차질이 최소 수개월 지속될 수 있음을 의미. 전기·가스 요금 인상 압력.",
       "sections": {
         "🇰🇷 한국": [
-          "서울 아파트 평균 전세가 6억 돌파 눈앞 — 매물 감소, 양도세 일몰 영향",
-          "3월 소비심리지수 5.1P 하락 (107.0) — 1년3개월 만에 최대 낙폭",
-          "카타르, 한국 등 4개국 LNG 장기계약 불가항력 선언",
-          "청와대 31일 추경안 의결 목표 — 중동 사태 대응"
+          {
+            "text": "서울 아파트 평균 전세가 6억 돌파 눈앞",
+            "insight": "전세→월세 전환 가속 중. 전세사기 여파로 매물 품귀가 심화되는 구조적 문제.",
+            "url": "https://www.mk.co.kr/news/economy/11997672"
+          },
+          {
+            "text": "3월 소비심리지수 5.1P 하락 (107.0)",
+            "insight": "100 아래로 떨어지면 경기 위축 신호. 현재 107이지만 낙폭이 큰 게 문제.",
+            "url": "https://www.mk.co.kr/news/economy/11997660"
+          },
+          {
+            "text": "카타르 LNG 장기계약 불가항력 선언",
+            "insight": "겨울 전 대체 수급 확보 못하면 에너지 위기 가능성. 호주·미국 LNG 스팟가 이미 상승 중.",
+            "url": "https://www.mk.co.kr/news/economy/11997376"
+          },
+          {
+            "text": "청와대 31일 추경안 의결 목표",
+            "insight": "중동 대응 + 민생 안정 명목. 규모에 따라 국채 발행 → 금리 영향 주시.",
+            "url": "https://www.mk.co.kr/news/economy/11997813"
+          }
         ],
         "🇺🇸 미국": [
-          "트럼프 이란 협상 의지 표명 → 유가 6% 급락",
-          "미·이란 협상 타결 불확실성으로 월가 혼조",
-          "아시아 증시 협상 기대로 상승세"
+          {
+            "text": "트럼프 이란 협상 의지 → 유가 6% 급락",
+            "insight": "유가 변동성이 극심. 트럼프 발언 하나에 수십억 달러가 움직이는 구조."
+          },
+          {
+            "text": "미·이란 협상 불확실성으로 월가 혼조",
+            "insight": "시장은 '협상 성공' 에 반만 베팅 중. VIX 아직 높은 수준."
+          },
+          {
+            "text": "아시아 증시 협상 기대로 상승세",
+            "insight": "미국 대비 아시아가 더 민감하게 반응. 에너지 수입국 특성상 당연한 구조."
+          }
         ]
       }
     },
@@ -38,16 +80,43 @@
       "emoji": "🤖",
       "title": "AI 데일리",
       "highlight": "OpenAI Foundation $1B 투자 발표 — 질병 치료·경제 기회·AI 복원력에 10억 달러",
+      "insight": "비영리 전환 논란 속에서 나온 '선한 AI' 카드. 규제 회피 전략이기도 하지만, AI의 사회적 역할 논의를 선점하는 움직임.",
       "items": [
-        "Amazon — Fauna Robotics 인수 (아이 크기 휴머노이드 로봇)",
-        "Kleiner Perkins — $3.5B AI 전용 펀드 조성",
-        "Anthropic — Claude Code Auto Mode 출시",
-        "OpenAI — Sora 앱 서비스 종료 (6개월 만에)",
-        "ARM — 첫 자체 칩 'AGI CPU' 발표, Meta 첫 고객"
+        {
+          "text": "Amazon — Fauna Robotics 인수 (아이 크기 휴머노이드 로봇)",
+          "insight": "물류 자동화 넘어 가정용 로봇 시장 진출 신호. 이달만 두 번째 로봇 인수.",
+          "url": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/"
+        },
+        {
+          "text": "Kleiner Perkins — $3.5B AI 전용 펀드",
+          "insight": "실리콘밸리 VC 역사상 AI 단일 펀드로는 최대 규모. 아직 AI 버블이 아니라는 베팅.",
+          "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/"
+        },
+        {
+          "text": "Anthropic — Claude Code Auto Mode 출시",
+          "insight": "개발자 생산성 도구 경쟁 심화. GitHub Copilot vs Cursor vs Claude Code 삼파전.",
+          "url": "https://claude.com/blog/auto-mode"
+        },
+        {
+          "text": "OpenAI — Sora 앱 서비스 종료",
+          "insight": "AI 생성 콘텐츠 소셜 피드는 시기상조였음. 생성 도구 ≠ 소비 플랫폼.",
+          "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/"
+        },
+        {
+          "text": "ARM — 첫 자체 칩 'AGI CPU' 발표, Meta 첫 고객",
+          "insight": "설계만 하던 ARM이 직접 제조. NVIDIA 독점에 대한 빅테크 연합 견제 움직임.",
+          "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu"
+        }
       ],
       "community": [
-        "Claude Code로 GunZ: The Duel 브라우저 포팅 (WebAssembly)",
-        "gstack — YC CEO가 만든 Claude Code 가상 엔지니어링 팀"
+        {
+          "text": "Claude Code로 GunZ: The Duel 브라우저 포팅",
+          "url": "https://velog.io/@aespa/claude-code-gunz-the-duel-web-port"
+        },
+        {
+          "text": "gstack — YC CEO가 만든 Claude Code 가상 엔지니어링 팀",
+          "url": "https://github.com/garrytan/gstack"
+        }
       ]
     }
   ]
