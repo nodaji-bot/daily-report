@@ -24,6 +24,59 @@
         "이란-미국 휴전협상 진전 상황",
         "유가 추가 하락 여부와 인플레이션 지표 영향"
       ]
+    },
+    {
+      "type": "economy",
+      "emoji": "📰",
+      "title": "경제 뉴스",
+      "highlight": "뉴멕시코 법원, Meta에 아동 안전 배상 판결 — 소셜미디어 규제 리스크 부각",
+      "insight": "빅테크 플랫폼의 청소년 보호 의무가 법적으로 확정되면서, 향후 유사 소송 증가와 새로운 규제 강화가 예상됨",
+      "sections": {
+        "🇰🇷 한국": [
+          {
+            "text": "반도체 외 실적 기대주 3총사 부각",
+            "insight": "반도체 집중 투자 리스크 경고, 다각화 필요성 강조",
+            "url": "https://www.mk.co.kr/news/stock/11997864"
+          },
+          {
+            "text": "ISA 계좌 ETF 편입비중 2배 증가",
+            "insight": "개인투자자 ETF 선호 급증, 절세 효과로 800만 계좌 활용",
+            "url": "https://www.mk.co.kr/news/stock/11998358"
+          },
+          {
+            "text": "BTS 재결합에도 엔터주 부진 지속",
+            "insight": "K-컨텐츠 기대감과 실제 주가 괴리, 실적 개선 필요",
+            "url": "https://www.mk.co.kr/news/stock/11998661"
+          },
+          {
+            "text": "바이오·우주항공 주도 코스닥 상승",
+            "insight": "신성장 동력 섹터 중심 성장주 랠리",
+            "url": "https://www.mk.co.kr/news/stock/11998244"
+          }
+        ],
+        "🇺🇸 미국": [
+          {
+            "text": "Meta 아동 안전 배상 판결",
+            "insight": "소셜미디어 중독 소송 첫 승소, 빅테크 규제 강화 신호",
+            "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lmNThIZUVCRmVZalBLRWtQWDl5Z0FQAQ"
+          },
+          {
+            "text": "Meta·YouTube 과실 인정 판결",
+            "insight": "플랫폼 책임 법적 확정으로 향후 소송 확산 가능성",
+            "url": "https://news.google.com/read/CBMigwFBVV85cUxNdkxPRkxKVzBTSzI4d3dKeE96dmFsb25qT081MVZnaTJKRXFyS29oUGFCY0praWlWelVVSHkzSkZrTjJ0elZvR0xXVnhkSGdmem5ITUVEX1FkV25xTXdRRFN3eFU5ZlVUS3JPYzNrSVBmT2l0U29iNkF6SGxiTnBQaFUydw"
+          },
+          {
+            "text": "주요 지수 상승세 지속",
+            "insight": "다우·S&P·나스닥 모두 플러스, 시장 안정세 유지",
+            "url": "https://www.google.com/search?q=INDEXDJX+.DJI&hl=en&source=news"
+          },
+          {
+            "text": "레이먼드제임스 고객자산 최대",
+            "insight": "자산관리업계 호황으로 1조 8,300억 달러 돌파",
+            "url": "https://www.mk.co.kr/news/stock/11998750"
+          }
+        ]
+      }
     }
   ]
 }
