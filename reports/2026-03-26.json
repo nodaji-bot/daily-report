@@ -106,6 +106,45 @@
           "url": "https://n.news.naver.com/article/018/0006242548"
         }
       ]
+    },
+    {
+      "type": "ai",
+      "emoji": "🤖",
+      "title": "AI 데일리",
+      "highlight": "OpenAI Safety Bug Bounty program — AI 남용과 안전 위험을 찾아내는 버그 바운티 프로그램 런칭. 새로운 AI 위협에 대응하는 업계 차원의 보안 강화 움직임이 시작됨.",
+      "insight": "AI 보안이 더 이상 선택이 아닌 필수가 되었다. prompt injection, 데이터 탈취 등 AI 고유 위협들이 체계적으로 관리되기 시작했다.",
+      "items": [
+        {
+          "text": "Google Lyria 3 Pro",
+          "insight": "더 긴 음악 트랙 생성과 구조 인식 기능으로 업그레이드, Google 전 제품군에 확대 배포",
+          "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/"
+        },
+        {
+          "text": "OpenAI Model Spec 접근법",
+          "insight": "모델 행동 프레임워크 공개, AI 안전성과 사용자 자유도 균형을 위한 공개 지침 마련",
+          "url": "https://openai.com/index/our-approach-to-the-model-spec"
+        },
+        {
+          "text": "Google TurboQuant",
+          "insight": "AI 작업 메모리를 6배까지 압축하는 새로운 알고리즘 발표",
+          "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
+        },
+        {
+          "text": "Anthropic AI 스킬 갭 연구",
+          "insight": "AI는 아직 일자리를 대체하지 않지만, 숙련자와 초보자 간 격차가 확대되고 있다는 연구 결과",
+          "url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/"
+        }
+      ],
+      "community": [
+        {
+          "text": "Claude Code로 20년전 게임 브라우저 포팅",
+          "url": "https://velog.io/@aespa/claude-code-gunz-the-duel-web-port"
+        },
+        {
+          "text": "gstack: Claude Code로 만드는 가상 엔지니어링 팀",
+          "url": "https://github.com/garrytan/gstack"
+        }
+      ]
     }
   ]
 }
