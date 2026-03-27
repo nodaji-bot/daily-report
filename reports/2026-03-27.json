@@ -29,6 +29,44 @@
         "이란-미국 협상 진전 여부 (유가와 연동)",
         "3월 PCE 발표 대기 중 (인플레이션 재점화 우려)"
       ]
+    },
+    {
+      "type": "economy",
+      "emoji": "📰",
+      "title": "경제 뉴스",
+      "highlight": "Meta 소셜미디어 소송 패소로 주가 8% 급락",
+      "insight": "빅테크 플랫폼 규제 논란과 중동 전쟁 인플레이션 재점화가 시장 주요 리스크",
+      "sections": {
+        "🇺🇸 미국": [
+          {
+            "text": "Meta 법정 패배로 주가 8% 하락",
+            "insight": "소셜미디어 플랫폼 책임론 강화, 빅테크 전체 타격",
+            "url": "https://www.cnbc.com/meta-stock-drops"
+          },
+          {
+            "text": "이란 전쟁이 미국 인플레이션 4% 상승 유발 전망",
+            "insight": "OECD 분석, 에너지 가격 급등 우려",
+            "url": "https://www.axios.com/iran-war-inflation"
+          },
+          {
+            "text": "Pernod Ricard와 Jack Daniel's 제조사 합병 협의",
+            "insight": "글로벌 주류업계 대형 M&A 가능성",
+            "url": "https://www.reuters.com/pernod-ricard-brown-forman"
+          },
+          {
+            "text": "Coinbase, 암호화폐 담보 모기지 신상품 출시",
+            "insight": "Fannie Mae 승인으로 크립토-부동산 연결 본격화",
+            "url": "https://www.coindesk.com/crypto-mortgage"
+          }
+        ],
+        "🇰🇷 한국": [
+          {
+            "text": "한국 특화 뉴스 소스 접근 제한",
+            "insight": "미국 금리 정책과 연동된 원/달러 환율 변동 주목",
+            "url": "#"
+          }
+        ]
+      }
     }
   ]
 }
