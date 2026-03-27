@@ -101,6 +101,45 @@
           "url": "https://n.news.naver.com/article/021/0002780039"
         }
       ]
+    },
+    {
+      "type": "ai",
+      "emoji": "🤖",
+      "title": "AI 데일리",
+      "highlight": "Google Gemini 3.1 Flash Live 출시로 실시간 대화 AI 경쟁 본격화",
+      "insight": "음성 AI의 자연스러움과 실시간성이 차세대 인터페이스의 핵심 경쟁력으로 부상",
+      "items": [
+        {
+          "text": "Google Gemini 챗봇 전환 도구",
+          "insight": "타 챗봇 대화 히스토리 이주로 사용자 락인 경쟁 심화",
+          "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/"
+        },
+        {
+          "text": "OpenAI Safety Bug Bounty 프로그램",
+          "insight": "AI 안전성을 크라우드소싱으로 해결하려는 업계 트렌드",
+          "url": "https://openai.com/index/safety-bug-bounty"
+        },
+        {
+          "text": "Wikipedia AI 글쓰기 규제 강화",
+          "insight": "콘텐츠 품질 vs AI 효율성의 균형점 모색",
+          "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/"
+        },
+        {
+          "text": "Anthropic 대규모 사용자 연구",
+          "insight": "실제 사용 패턴 분석으로 제품 개발 방향 설정",
+          "url": "https://www.anthropic.com/81k-interviews"
+        }
+      ],
+      "community": [
+        {
+          "text": "Claude Code로 20년 전 게임 브라우저 이식",
+          "url": "https://velog.io/@aespa/claude-code-gunz-the-duel-web-port"
+        },
+        {
+          "text": "Anthropic 장기 실행 앱 하네스 설계",
+          "url": "https://www.anthropic.com/engineering/harness-design-long-running-apps"
+        }
+      ]
     }
   ]
 }
