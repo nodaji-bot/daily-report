@@ -29,6 +29,59 @@
         "이란 전쟁 상황 전개와 유가 추가 상승 가능성",
         "미국 correction 확산이 아시아 시장에 미칠 영향"
       ]
+    },
+    {
+      "type": "economy",
+      "emoji": "📰",
+      "title": "경제 뉴스",
+      "highlight": "이란 전쟁 장기화에 글로벌 에너지 대란 심화 — 호르무즈해협 봉쇄가 한 달째 계속되며 브렌트유 112달러 돌파. 한국은 나프타 수출 제한까지 단행하며 석유화학 산업 전반이 타격",
+      "insight": "에너지 가격 상승이 인플레이션 재가속과 글로벌 경기둔화를 동시에 촉발할 스태그플레이션 우려 확산. 특히 에너지 수입 의존도가 높은 한국 경제에 직격탄",
+      "sections": {
+        "🇰🇷 한국": [
+          {
+            "text": "나프타 수출 못 한다…정부, 품귀 현상에 결국 긴급 조치",
+            "insight": "호르무즈해협 봉쇄로 나프타 품귀, 27일부터 수출 제한 단행",
+            "url": "https://n.news.naver.com/mnews/article/015/0005267636"
+          },
+          {
+            "text": "삼성전자 노사 교섭 중단…성과급 제도 합의점 찾기 난항",
+            "insight": "임금협상 재개 3일만에 중단, 성과급 상한 폐지 문제로 양측 갈등",
+            "url": "https://n.news.naver.com/mnews/article/079/0004130078"
+          },
+          {
+            "text": "비트코인 1억원선 붕괴…주말 추가 하락 경고등",
+            "insight": "20여일 만에 최저치, 전쟁 장기화와 옵션 만기 겹쳐",
+            "url": "https://n.news.naver.com/mnews/article/018/0006244513"
+          },
+          {
+            "text": "서울 집값 8주만에 꿈틀…15억이하 키 맞추기",
+            "insight": "강남3구는 5주 연속 하락했지만 서울 전체는 상승률 반등 시도",
+            "url": "https://n.news.naver.com/mnews/article/648/0000045753"
+          }
+        ],
+        "🇺🇸 미국": [
+          {
+            "text": "Dow tumbles almost 800 points and enters correction, S&P 500 posts fifth straight losing week",
+            "insight": "다우 약 800포인트 급락해 조정국면 진입, S&P는 5주 연속 하락",
+            "url": "https://news.google.com/read/CBMid0FVX3lxTE9mVTJiMjN0VGVIdGI0S0FydkFfeFBCVUFQT3BBU24zWnI1aDQ0TWJOVHRhN1lkTzhhN25rQUFjaC1LWmV6bVRjR19rZ3R6cnprQVVtRnM0UDZsN0h1YllWUWVJY3REZTFlZzRodEhlYVFjakVNcHFN"
+          },
+          {
+            "text": "Financial markets fall to new 2026 low as oil rises again",
+            "insight": "금융시장이 2026년 최저점 경신, 유가 재상승으로 불안 지속",
+            "url": "https://news.google.com/read/CBMikwFBVV85cUxPcXdyUHdLUjIySnhLSUxDMDVScnoxRFRvbnYwYldRb0xiR2VZdUhmOHdQZXZnZGt2ckRnX2FpQlNjdXgteWN2ZVdfaXlieERaT1M5Q1B5OFZWUXM5SWR1OVYxV3pyNzFaeEFObmFfU0NjcURvWWMyRWpBQllkRWlxS0FaZ29OUnRLb0t2LTJRQkQ5eXc"
+          },
+          {
+            "text": "US appeals court voids $16.1 billion judgment against Argentina over YPF seizure",
+            "insight": "아르헨티나 YPF 국유화 관련 161억달러 판결 파기로 밀레이 정부에 승리",
+            "url": "https://news.google.com/read/CBMivAFBVV95cUxPMTRRUVlYRDVodDdOWElybEdXdzdqblFDZ1RUc2wyZ0tQblF0ODBYV05NaUhwLXBTY29qUWFORWxwRjhfTnVNaTdLLVhsWGdtWTMzLUkxTzRlMXBoRDRsWTB0LWs2SC1LNjhXUEFHMDFTcnM1VHVnZjhHeVVlXzU3MmRPcmllOEdKVk5iTF9RLXVrOEVhYzlSWXNGLVRVT052dzRzWVVaREl5dWFpRXRBWVVzdFNITXlPRXJ5Qw"
+          },
+          {
+            "text": "With Hormuz still shut, options market signals rising risk of $150 oil",
+            "insight": "호르무즈 봉쇄 지속으로 옵션시장에서 유가 150달러 리스크 급등",
+            "url": "https://news.google.com/read/CBMiuAFBVV85cUxPNVo1ZlhNWnRlVldtbjMyZDlGVDAzZzl2YXZWMDJZWEV3TmxVemlqZkFka0VMTEdaQ05rdVE1VWtlS0hMODB1R0dBeWFEY2FnbW5abEpmdmJFK3FSaHUxcV9Sd3BnY3Raa0o5NmZlenVYM1JBRXVsMzI1VmhOOUpWSFJIT2VmYTUwX3RQVThFVzJ4Q0FWdDlqSXlrZVdKWkItS2VHVWd0V2Qwc2ZoS3VBZkVOYTR4NnlF"
+          }
+        ]
+      }
     }
   ]
 }
