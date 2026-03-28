@@ -116,6 +116,45 @@
           "url": "https://n.news.naver.com/article/025/0003512173"
         }
       ]
+    },
+    {
+      "type": "ai",
+      "emoji": "🤖",
+      "title": "AI 데일리",
+      "highlight": "OpenAI Astral 인수로 AI 코딩 에이전트 경쟁 본격화",
+      "insight": "Python 도구 강화로 개발자 생태계 장악 가속",
+      "items": [
+        {
+          "text": "Gemini 3.1 Flash Live",
+          "insight": "Google 음성 AI, 더 자연스럽고 낮은 지연시간",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/"
+        },
+        {
+          "text": "Physical Intelligence 10억달러 투자",
+          "insight": "로보틱스 스타트업 밸류에이션 급성장",
+          "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/"
+        },
+        {
+          "text": "OpenAI Safety Bug Bounty",
+          "insight": "AI 안전 위험 식별 보상 프로그램",
+          "url": "https://openai.com/index/safety-bug-bounty"
+        },
+        {
+          "text": "SoftBank 400억달러 대출",
+          "insight": "2026 OpenAI IPO 신호로 해석",
+          "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/"
+        }
+      ],
+      "community": [
+        {
+          "text": "Claude Code로 20년 전 게임 웹 포팅",
+          "url": "https://velog.io/@aespa/claude-code-gunz-the-duel-web-port"
+        },
+        {
+          "text": "Cursor 실시간 RL로 Composer 개선",
+          "url": "https://cursor.com/blog/real-time-rl-for-composer"
+        }
+      ]
     }
   ]
 }
