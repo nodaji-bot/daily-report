@@ -29,6 +29,54 @@
         "중동 정세 진전 여부와 유가 안정화 가능성",
         "빅테크 실적 시즌 앞두고 밸류에이션 재평가 신호"
       ]
+    },
+    {
+      "type": "economy",
+      "emoji": "📰",
+      "title": "경제 뉴스",
+      "highlight": "이란 전쟁 장기화와 트럼프 협상 실패로 유가 $110 돌파하며 글로벌 시장 급락",
+      "insight": "구글 터보퀀트 기술이 메모리 수요를 6분의 1로 압축하면서 반도체 업계 패러다임 변화 예고. 전쟁 불확실성과 기술 혁신이 동시에 시장을 흔들고 있음",
+      "sections": {
+        "🇰🇷 한국": [
+          {
+            "text": "코스피 0.4% 하락, 휴전 불확실·반도체 충격",
+            "insight": "외국인 3.9조원 순매도, 삼성전자·SK하이닉스 각각 0.2%, 1.2% 하락",
+            "url": "https://www.hankyung.com/article/2026032716266"
+          },
+          {
+            "text": "신용거래융자 33조원 연속 기록",
+            "insight": "당국 경고에도 빚투 열기, 반대매매 우려 275억원으로 두 배 증가",
+            "url": "https://www.hankyung.com/article/2026032719901"
+          },
+          {
+            "text": "원유ETF 24% 수익률 1위",
+            "insight": "에너지·농산물 상승 vs 금·은 15-23% 급락으로 희비",
+            "url": "https://www.hankyung.com/article/2026032719941"
+          }
+        ],
+        "🇺🇸 미국": [
+          {
+            "text": "S&P 5주 연속 하락, 나스닥 2만선 붕괴",
+            "insight": "4년 만에 가장 긴 주간 하락, 이란 전쟁 장기화 우려로 투자심리 얼어붙음",
+            "url": "https://www.cnbc.com/markets/"
+          },
+          {
+            "text": "Meta·YouTube 소셜미디어 중독 소송 패소",
+            "insight": "획기적 판결로 빅테크 비즈니스 모델 타격, 후속 소송 예상",
+            "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lmNThIZUVCRnBNMm03SkhmNHNpZ0FQAQ"
+          },
+          {
+            "text": "유가 $110 돌파, 트럼프 협상 효과 무력화",
+            "insight": "4월 6일까지 공격 연기 발표에도 시장 반응 미미, 지상침공 우려 지속",
+            "url": "https://www.hankyung.com/article/202603282526i"
+          },
+          {
+            "text": "구글 터보퀀트로 메모리 수요 6분의 1 압축",
+            "insight": "AI 압축 알고리즘 발표로 글로벌 반도체 업계 충격",
+            "url": "https://www.hankyung.com/article/2026032716266"
+          }
+        ]
+      }
     }
   ]
 }
