@@ -106,6 +106,45 @@
           "url": "https://n.news.naver.com/article/016/0002620870"
         }
       ]
+    },
+    {
+      "type": "ai",
+      "emoji": "🤖",
+      "title": "AI 데일리",
+      "highlight": "OpenAI GPT-5.4 출시 — 1M 토큰 컨텍스트와 코딩 에이전트 성능을 갖춘 차세대 모델",
+      "insight": "프로페셔널 워크와 에이전트 분야에서 업계를 선도할 역량으로 AI 실무 적용의 새 기준점",
+      "items": [
+        {
+          "text": "Gemini 3.1 Flash Live",
+          "insight": "구글이 음성 AI를 더 자연스럽고 신뢰할 수 있게 만드는 새 모델",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/"
+        },
+        {
+          "text": "Claude Opus 4.6",
+          "insight": "Anthropic의 가장 강력한 모델로 에이전트 코딩과 컴퓨터 사용에서 업계 선도",
+          "url": "https://www.anthropic.com/news/claude-opus-4-6"
+        },
+        {
+          "text": "OpenAI Safety Bug Bounty",
+          "insight": "AI 남용과 안전 위험을 식별하기 위한 보안 버그바운티 프로그램",
+          "url": "https://openai.com/index/safety-bug-bounty"
+        },
+        {
+          "text": "Physical Intelligence $1B 추가 투자",
+          "insight": "4개월 만에 밸류에이션이 두 배로 늘어 추가 투자 진행",
+          "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again"
+        }
+      ],
+      "community": [
+        {
+          "text": "뇌 구조에서 영감받은 칩으로 AI 에너지 사용 급감 가능",
+          "url": "https://www.cam.ac.uk/research/news/new-computer-chip-material-inspired-by-the-human-brain-could-slash-ai-energy-use"
+        },
+        {
+          "text": "AI 시대의 첫 40개월 회고",
+          "url": "https://lzon.ca/posts/other/thoughts-ai-era/"
+        }
+      ]
     }
   ]
 }
