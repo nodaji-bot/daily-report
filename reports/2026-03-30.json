@@ -111,6 +111,45 @@
           "url": "https://n.news.naver.com/article/009/0005657864"
         }
       ]
+    },
+    {
+      "type": "ai",
+      "emoji": "🤖",
+      "title": "AI 데일리",
+      "highlight": "Anthropic이 8만 1천명 참여한 대규모 AI 사용자 조사 결과 발표 — AI 시대 최대 규모 질적 연구로 사용자가 AI에 원하는 것과 우려사항을 밝혔다.",
+      "insight": "AI 제품 개발에서 실제 사용자 니즈 파악이 중요해짐",
+      "items": [
+        {
+          "text": "Anthropic, Claude Partner Network에 1억 달러 투자",
+          "insight": "AI 생태계 확장 가속화",
+          "url": "https://www.anthropic.com/news/claude-partner-network"
+        },
+        {
+          "text": "Google DeepMind, Gemini 3.1 Flash Live 발표",
+          "insight": "음성 AI의 정밀도와 지연시간 개선",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/"
+        },
+        {
+          "text": "OpenAI, Safety Bug Bounty 프로그램 런칭",
+          "insight": "AI 남용과 안전 위험 탐지를 위한 보상 프로그램 시작",
+          "url": "https://openai.com/index/safety-bug-bounty"
+        },
+        {
+          "text": "Anthropic, Vercept 인수로 컴퓨터 사용 능력 강화",
+          "insight": "Claude의 자동화 역량 확장",
+          "url": "https://www.anthropic.com/news/acquires-vercept"
+        }
+      ],
+      "community": [
+        {
+          "text": "Harness — Claude Code 에이전트 팀 & 스킬 아키텍트 플러그인",
+          "url": "https://github.com/revfactory/harness"
+        },
+        {
+          "text": "Codex 활용 사례 모음",
+          "url": "https://developers.openai.com/codex/use-cases"
+        }
+      ]
     }
   ]
 }
