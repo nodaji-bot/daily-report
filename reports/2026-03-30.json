@@ -29,6 +29,54 @@
         "유가 $100 돌파 여부와 이란 정세 악화 가능성",
         "미국 고용지표 발표 앞둔 시장 반응 (단축거래주간)"
       ]
+    },
+    {
+      "type": "economy",
+      "emoji": "📰",
+      "title": "경제 뉴스",
+      "highlight": "이란 전쟁 5주차 진입으로 유가 100달러 돌파, 글로벌 증시 급락",
+      "insight": "홀무즈 해협 긴장 고조로 에너지 쇼크 현실화하며 투자자들 \"피할 곳 없다\" 우려 확산",
+      "sections": {
+        "🇰🇷 한국": [
+          {
+            "text": "코스피 급락 우려",
+            "insight": "미국 증시 동반 하락에 아시아 시장 영향 불가피",
+            "url": "https://finance.yahoo.com/markets/world-indices/"
+          },
+          {
+            "text": "유가 상승 인플레 압박",
+            "insight": "원자재비용 급등으로 제조업 타격 예상",
+            "url": "https://www.google.com/news/"
+          },
+          {
+            "text": "환율 불안정성 증가",
+            "insight": "달러 강세로 원화 약세 지속",
+            "url": "https://finance.yahoo.com/markets/currencies/"
+          }
+        ],
+        "🇺🇸 미국": [
+          {
+            "text": "다우존스 793포인트 급락",
+            "insight": "S&P 500, 나스닥도 동반 하락으로 조정장 진입",
+            "url": "https://finance.yahoo.com/quote/%5EDJI"
+          },
+          {
+            "text": "메타·구글 소셜중독 소송 패소",
+            "insight": "AI 연구·소비자 안전에 영향 예상",
+            "url": "https://news.google.com/topics/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lmNThIZUVCRTF5TEZiamNQU0dTZ0FQAQ"
+          },
+          {
+            "text": "엘리 릴리 27.5억달러 AI 의약품 계약",
+            "insight": "인실리코와 AI 신약개발 협력",
+            "url": "https://news.google.com/topics/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lqaXVQbkVCRnppcWQ1Smp2UGtTZ0FQAQ"
+          },
+          {
+            "text": "아폴로 글로벌 제2본부 검토",
+            "insight": "플로리다·텍사스 이전으로 세금 부담 경감",
+            "url": "https://news.google.com/topics/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l1a2ZmbkVCSEhkTGtJU3FqTG95Z0FQAQ"
+          }
+        ]
+      }
     }
   ]
 }
