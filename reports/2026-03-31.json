@@ -116,6 +116,45 @@
           "url": "https://n.news.naver.com/article/008/0005337185"
         }
       ]
+    },
+    {
+      "type": "ai",
+      "emoji": "🤖",
+      "title": "AI 데일리",
+      "highlight": "Mistral AI, 파리 근교 데이터센터에 $830M 투자",
+      "insight": "유럽 AI 인프라 확장 가속화, 미국 의존도 탈피 시작",
+      "items": [
+        {
+          "text": "AI 칩 스타트업 Rebellions, $400M 펀딩으로 $2.3B 밸류",
+          "insight": "엔비디아 대항마 등장, IPO 예정",
+          "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/"
+        },
+        {
+          "text": "전 Coatue 파트너, 엔터프라이즈 AI 에이전트로 $65M 시드",
+          "insight": "기업용 AI 에이전트 시장 폭발적 성장",
+          "url": "https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/"
+        },
+        {
+          "text": "ScaleOps, AI 인프라 최적화로 $130M",
+          "insight": "GPU 부족 해결책 제시",
+          "url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/"
+        },
+        {
+          "text": "미국인 15%만 AI 보스와 일할 의향",
+          "insight": "AI 리더십에 대한 저항감 여전",
+          "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/"
+        }
+      ],
+      "community": [
+        {
+          "text": "OpenAI Codex 플러그인",
+          "url": "https://news.hada.io"
+        },
+        {
+          "text": "Korean Law MCP 도구",
+          "url": "https://news.hada.io"
+        }
+      ]
     }
   ]
 }
