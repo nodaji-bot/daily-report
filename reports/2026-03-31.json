@@ -29,6 +29,59 @@
         "유가 추가 상승 시 글로벌 인플레이션 재점화 가능성",
         "반도체 섹터 추가 조정 여부와 기술주 전반 영향"
       ]
+    },
+    {
+      "type": "economy",
+      "emoji": "📰",
+      "title": "경제 뉴스",
+      "highlight": "미국-이란 전쟁 장기화 우려로 코스피 2.97% 급락",
+      "insight": "국제 유가 상승과 인플레이션 가능성이 투자심리를 악화시키며 외국인들이 8거래일째 연속 매도",
+      "sections": {
+        "🇰🇷 한국": [
+          {
+            "text": "코스피 60일선 터치, 기관 매수로 하락폭 축소",
+            "insight": "5277.30 마감, 외국인 2조원 순매도에도 기관이 떠받쳐",
+            "url": "https://www.hankyung.com/article/2026033064541"
+          },
+          {
+            "text": "애경케미칼 상한가, TPC 국산화 첫 성공",
+            "insight": "아라미드 핵심원료 국내 최초 양산으로 소재 독립 의미",
+            "url": "https://www.hankyung.com/article/2026033064181"
+          },
+          {
+            "text": "SK하이닉스 80만닉스 추락, 반도체 전반 약세",
+            "insight": "5.31% 급락으로 메모리 시장 우려 재점화",
+            "url": "https://www.hankyung.com/article/2026033064541"
+          },
+          {
+            "text": "LG에너지솔루션 3.93% 상승, ESS 기대감",
+            "insight": "에너지저장장치 시장 확대 전망이 주가 부양",
+            "url": "https://www.hankyung.com/article/2026033064541"
+          }
+        ],
+        "🇺🇸 미국": [
+          {
+            "text": "다우지수 소폭 상승 마감, S&P·나스닥은 하락",
+            "insight": "다우 0.11% 상승, S&P 0.39%, 나스닥 0.73% 하락",
+            "url": "https://finance.yahoo.com/"
+          },
+          {
+            "text": "미국 증시, 과거 지정학적 위기보다 심각한 조정",
+            "insight": "마켓워치 분석, 추가 하락 여지 상당",
+            "url": "https://news.google.com/"
+          },
+          {
+            "text": "이란 전쟁이 시장 흔드는 세 가지 요인",
+            "insight": "원유가·인플레·공급망 삼중고",
+            "url": "https://news.google.com/"
+          },
+          {
+            "text": "트럼프 이란과 협상 진전 혼조 메시지",
+            "insight": "15개 항목 합의 언급하며도 타격 지속, 시장 혼란 지속",
+            "url": "https://www.hankyung.com/article/2026033064541"
+          }
+        ]
+      }
     }
   ]
 }
