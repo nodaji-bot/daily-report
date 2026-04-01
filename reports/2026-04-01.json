@@ -1,0 +1,34 @@
+{
+  "date": "2026-04-01",
+  "reports": [
+    {
+      "type": "market",
+      "emoji": "📈",
+      "title": "모닝 마켓",
+      "highlight": "트럼프 \"이란 전쟁 오래 가지 않을 것\" 발언에 미국 주식 폭등 — 다우 1,100포인트 급등하며 5월 이후 최대 상승",
+      "insight": "이란 전쟁 종료 기대감이 위험자산 선호로 이어지며 미국 시장 급등했지만, 코스피는 외국인 매도와 원화 약세에 5,000선 붕괴",
+      "indices": "🇺🇸 S&P 6,529 (+2.91%) • 나스닥 21,591 (+3.83%) • 다우 46,342 (+2.49%) 🇰🇷 코스피 5,052 (-4.26%) • 원/달러 1,530",
+      "items": [
+        {
+          "text": "다우 1,100포인트 급등, S&P 5월 이후 최대 상승 — 이란 전쟁 종료 희망",
+          "insight": "호르무즈 해협 재개방 기대로 위험자산 매수",
+          "url": "https://www.cnbc.com/2026/03/30/stock-market-today-live-updates.html"
+        },
+        {
+          "text": "트럼프 \"전쟁 얼마 안 남아\" 발언에 시장 안도감",
+          "insight": "유가 하락과 성장주 반등 동시 진행",
+          "url": "https://ca.finance.yahoo.com/news/stock-market-today-dow-sp-500-nasdaq-soar-after-trump-remarks-on-ending-war-with-hormuz-closed-230141142.html"
+        },
+        {
+          "text": "코스피 5,000선 붕괴, 외국인 대량 매도",
+          "insight": "원화 급락과 동반 하락",
+          "url": "https://en.sedaily.com/finance/2026/03/31/won-breaches-1530-as-kospi-retreats-below-5000"
+        }
+      ],
+      "watchpoints": [
+        "이란 정부 공식 반응 — 전쟁 종료 협상 진전 여부",
+        "원화 1,530원선 방어 능력 — 한국 금융시장 추가 불안 가능성"
+      ]
+    }
+  ]
+}
