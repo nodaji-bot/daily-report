@@ -116,6 +116,45 @@
           "url": "https://n.news.naver.com/article/015/0005269446"
         }
       ]
+    },
+    {
+      "type": "ai",
+      "emoji": "🤖",
+      "title": "AI 데일리",
+      "highlight": "OpenAI $852B 밸류에이션으로 $122B 펀딩 — 사상 최대 라운드로 IPO 준비 본격화",
+      "insight": "AI 업계가 성숙기로 접어들며 대형 플레이어들의 자금력 경쟁이 가속화. 차세대 인프라 투자 경쟁 시작",
+      "items": [
+        {
+          "text": "OpenAI 차세대 AI 가속화 발표",
+          "insight": "글로벌 프론티어 AI 확장과 차세대 컴퓨팅 투자로 수요 대응",
+          "url": "https://openai.com/index/accelerating-the-next-phase-ai"
+        },
+        {
+          "text": "Anthropic-호주 정부 AI 안전 MOU",
+          "insight": "AI 안전성 연구 협력으로 아시아태평양 진출 가속",
+          "url": "https://www.anthropic.com/news/australia-MOU"
+        },
+        {
+          "text": "Salesforce Slack AI 기능 30개 추가",
+          "insight": "기업 협업 도구 AI화 본격 시작",
+          "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/"
+        },
+        {
+          "text": "Google DeepMind Gemini 3.1 Flash Live",
+          "insight": "음성 AI 정확도 개선으로 자연스러운 대화 구현",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/"
+        }
+      ],
+      "community": [
+        {
+          "text": "Claude Code 숨겨진 기능 15가지",
+          "url": "https://news.hada.io/topic?id=28021"
+        },
+        {
+          "text": "Korean Law MCP 법령 검색 도구",
+          "url": "https://news.hada.io/topic?id=27995"
+        }
+      ]
     }
   ]
 }
