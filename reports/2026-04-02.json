@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-02",
+  "reports": [
+    {
+      "type": "economy",
+      "emoji": "📰",
+      "title": "경제 뉴스",
+      "highlight": "SpaceX IPO 추진으로 우주항공 섹터 주목",
+      "insight": "사상 최대 규모 IPO가 시장에 미칠 파급효과와 관련 섹터 투자 기회 모니터링 필요",
+      "sections": {
+        "🇰🇷 한국": [
+          {
+            "text": "뉴스 소스 접근 제한",
+            "insight": "주요 뉴스 사이트 접근 불가로 실시간 업데이트 한계",
+            "url": "#"
+          }
+        ],
+        "🇺🇸 미국": [
+          {
+            "text": "SpaceX IPO 추진",
+            "insight": "기록적 규모 공모로 우주항공 섹터 전반 상승",
+            "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l5dG9EZUVCRkU5OUN1QTl1dFppZ0FQAQ"
+          },
+          {
+            "text": "주요 지수 상승세",
+            "insight": "다우/S&P/나스닥 모두 상승으로 시장 안정세",
+            "url": "https://www.google.com/finance/"
+          }
+        ]
+      }
+    }
+  ]
+}
