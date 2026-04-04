@@ -29,6 +29,59 @@
         "호르무즈 해협 상황 진전 여부와 유가 안정성",
         "4월 첫 주 기업실적 시즌 본격 시작 앞둔 시장 포지셔닝"
       ]
+    },
+    {
+      "type": "economy",
+      "emoji": "📰",
+      "title": "경제 뉴스",
+      "highlight": "코스피 2.74% 급등, 호르무즈 해협 정상화 기대감으로 반도체와 에너지주 강세. 미국은 고용지표 호조로 Fed 금리인하 기대 축소.",
+      "insight": "호르무즈 해협 개방 기대감이 한국 증시에 긍정적 영향. AI 관련 부품 수요 급증으로 삼성전기 등 수혜. 미국 고용지표 호조는 Fed 정책 정상화 신호.",
+      "sections": {
+        "🇰🇷 한국": [
+          {
+            "text": "코스피, 호르무즈 개방 기대감에 2%대 반등",
+            "insight": "5377.3 마감, 외국인 9490억 순매수",
+            "url": "https://www.hankyung.com/article/2026040374156"
+          },
+          {
+            "text": "MLCC 수요 폭발…눈높이 올라간 삼성전기",
+            "insight": "AI 열풍에 9.35% 급등, 목표가 60만원",
+            "url": "https://www.hankyung.com/article/2026040377721"
+          },
+          {
+            "text": "유럽·亞 40개국 호르무즈 정상화 연합",
+            "insight": "한국 포함 외교장관 회의로 유가안정 기대",
+            "url": "https://www.mk.co.kr/news/world/12007614"
+          },
+          {
+            "text": "삼성전자 올해 1분기에만 50조 넘길수도",
+            "insight": "반도체 슈퍼사이클 지속",
+            "url": "https://www.mk.co.kr/news/business/12007673"
+          }
+        ],
+        "🇺🇸 미국": [
+          {
+            "text": "US Bonds Fall as Strong Jobs Data",
+            "insight": "3월 고용지표 강세로 채권금리 상승",
+            "url": "https://news.google.com"
+          },
+          {
+            "text": "Strong Jobs Numbers Make Fed Job Easier",
+            "insight": "Fed 금리인하 압박 완화, 정책 여유 확보",
+            "url": "https://news.google.com"
+          },
+          {
+            "text": "Dow Jones 46,504.67(-0.13%)",
+            "insight": "혼조세 속 고용지표 후 조정",
+            "url": "https://www.google.com/finance/"
+          },
+          {
+            "text": "Tesla 주가 5.42% 급락",
+            "insight": "테슬라 $360.59로 하락세 지속",
+            "url": "https://www.google.com/finance/quote/TSLA:NASDAQ"
+          }
+        ]
+      }
     }
   ]
 }
