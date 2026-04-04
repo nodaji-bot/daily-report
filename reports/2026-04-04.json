@@ -82,6 +82,45 @@
           }
         ]
       }
+    },
+    {
+      "type": "ai",
+      "emoji": "🤖",
+      "title": "AI 데일리",
+      "highlight": "OpenAI $122B 펀딩 + Anthropic $400M 바이오AI 인수로 업계 경쟁 격화",
+      "insight": "거대 펀딩과 바이오 진출로 AI 경쟁이 새로운 차원으로 진입",
+      "items": [
+        {
+          "text": "Google Gemma 4 출시",
+          "insight": "바이트 대비 최강 오픈모델로 추론·에이전트 특화",
+          "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/"
+        },
+        {
+          "text": "OpenAI TBPN 인수",
+          "insight": "AI 대화 확산 위한 독립 미디어 플랫폼 확보",
+          "url": "https://openai.com/index/openai-acquires-tbpn"
+        },
+        {
+          "text": "Anthropic 호주 정부 MOU",
+          "insight": "AI 안전·연구 협력으로 정부 파트너십 강화",
+          "url": "https://www.anthropic.com/news/australia-MOU"
+        },
+        {
+          "text": "Gemini API Flex/Priority 계층",
+          "insight": "비용·지연시간 균형 맞춘 새로운 추론 옵션",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/"
+        }
+      ],
+      "community": [
+        {
+          "text": "Claude Code 소스 유출 분석서 (76pt)",
+          "url": "https://wikidocs.net/338204"
+        },
+        {
+          "text": "OpenClaude 등장 (27pt)",
+          "url": "https://github.com/Gitlawb/openclaude"
+        }
+      ]
     }
   ]
 }
