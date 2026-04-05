@@ -29,6 +29,59 @@
         "트럼프 행정부 이란 제재 추가 발표 여부",
         "유가 안정화와 중동 지정학적 긴장 완화 신호"
       ]
+    },
+    {
+      "type": "economy",
+      "emoji": "📰",
+      "title": "경제 뉴스",
+      "highlight": "중동발 유가 불안으로 세계 식량가격지수 두 달째 상승, 밥상물가 인플레이션 가속화 우려",
+      "insight": "에너지비용 상승이 식량가격을 견인하며 전세계적 인플레이션 압력 증가. 한국은 청년 적금지원과 조선업 협력으로 내수경기 부양에, 미국은 고용시장 불안과 금리 동결로 신중한 정책기조 유지",
+      "sections": {
+        "🇰🇷 한국": [
+          {
+            "text": "지자체 청년 적금 매칭사업 확산",
+            "insight": "절약 트렌드와 함께 목돈마련 지원 주목",
+            "url": "https://www.mk.co.kr/news/economy/12008007"
+          },
+          {
+            "text": "한미 조선업 협력 프로젝트 본격화",
+            "insight": "미국 설계-한국 생산 분업으로 재건 추진",
+            "url": "https://www.mk.co.kr/news/economy/12007986"
+          },
+          {
+            "text": "고리원전 2호기 3년 만에 재가동",
+            "insight": "에너지 안보 강화, 후속 9기도 준비",
+            "url": "https://www.mk.co.kr/news/it/12007947"
+          },
+          {
+            "text": "트럼프 철강관세 체계 변경",
+            "insight": "가전·전선업계 타격 불가피",
+            "url": "https://www.mk.co.kr/news/economy/12007632"
+          }
+        ],
+        "🇺🇸 미국": [
+          {
+            "text": "연준 금리 동결 지속",
+            "insight": "인플레이션 둔화 기다리는 신중한 스탠스",
+            "url": "https://finance.yahoo.com/news/"
+          },
+          {
+            "text": "미국인 취업시장 비관론 확산",
+            "insight": "새 여론조사에서 고용 전망 어둡게 평가",
+            "url": "https://apnews.com/business"
+          },
+          {
+            "text": "국채 관련 학자금 대출 변경",
+            "insight": "재무부가 연체 대출 직접 관리로",
+            "url": "https://apnews.com/business"
+          },
+          {
+            "text": "유가 100달러 돌파로 주식시장 하락",
+            "insight": "에너지 비용 상승이 투자심리 위축",
+            "url": "https://apnews.com/business"
+          }
+        ]
+      }
     }
   ]
 }
