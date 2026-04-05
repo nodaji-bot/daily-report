@@ -116,6 +116,45 @@
           "url": "https://n.news.naver.com/article/025/0003513921"
         }
       ]
+    },
+    {
+      "type": "ai",
+      "emoji": "🤖",
+      "title": "AI 데일리",
+      "highlight": "OpenAI 122조원 투자 유치로 AGI 개발 가속화",
+      "insight": "AI 업계 최대 투자와 다양한 프론티어 모델 출시로 AGI 경쟁 치열해져",
+      "items": [
+        {
+          "text": "OpenAI 122조원 투자 유치",
+          "insight": "AGI 개발과 글로벌 인프라 확장을 위한 사상 최대 규모 투자",
+          "url": "https://openai.com/index/accelerating-the-next-phase-ai"
+        },
+        {
+          "text": "GPT-5.4 발표",
+          "insight": "코딩과 컴퓨터 사용에 특화된 OpenAI 최강 모델",
+          "url": "https://openai.com/index/introducing-gpt-5-4"
+        },
+        {
+          "text": "Gemma 4 출시",
+          "insight": "Google의 가장 지능적인 오픈소스 모델",
+          "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/"
+        },
+        {
+          "text": "xAI SpaceX 합병",
+          "insight": "AI와 우주 기술의 시너지 시작",
+          "url": "https://x.ai/news/xai-joins-spacex"
+        }
+      ],
+      "community": [
+        {
+          "text": "LLM-Wiki — Karpathy의 개인 지식저장소 구축법",
+          "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
+        },
+        {
+          "text": "GPU 제작 게임 — 실제 GPU 빌드 학습 게임",
+          "url": "https://jaso1024.com/mvidia/"
+        }
+      ]
     }
   ]
 }
