@@ -1,0 +1,58 @@
+{
+  "date": "2026-04-06",
+  "reports": [
+    {
+      "type": "economy",
+      "emoji": "📰",
+      "title": "경제 뉴스",
+      "highlight": "미국 모기지 금리 5주 연속 상승, 이란 전쟁 우려로 7% 근처 도달",
+      "insight": "부동산 시장 냉각과 지정학적 리스크가 글로벌 금융시장 변동성을 높이고 있어 투자 전략 재검토 필요",
+      "sections": {
+        "🇺🇸 미국": [
+          {
+            "text": "US mortgage rates climb for fifth-straight week",
+            "insight": "이란 전쟁 우려로 5주 연속 상승, 7% 근처 도달",
+            "url": "https://www.cnn.com/business/mortgage-rates"
+          },
+          {
+            "text": "Housing market trends favor home shoppers",
+            "insight": "구매자에게 유리한 환경이지만 전쟁 리스크가 변수",
+            "url": "https://apnews.com/housing-market-2026"
+          },
+          {
+            "text": "Mortgage rates are surging",
+            "insight": "급등하는 금리로 주택구매 계획 차질",
+            "url": "https://www.cbsnews.com/news/mortgage-rates-surge"
+          },
+          {
+            "text": "주요 지수 현황",
+            "insight": "다우존스 46,504(-0.13%), S&P 500 6,582(+0.11%), 나스닥 21,879(+0.18%)",
+            "url": "https://finance.google.com"
+          }
+        ],
+        "🇰🇷 한국": [
+          {
+            "text": "금융 데이터 서비스 현황",
+            "insight": "네이버파이낸셜이 주요 증시 데이터 서비스 제공 중",
+            "url": "https://finance.naver.com"
+          },
+          {
+            "text": "코스피/코스닥 동향",
+            "insight": "상세 실시간 데이터는 한국거래소(KRX) 기준",
+            "url": "https://www.krx.co.kr"
+          },
+          {
+            "text": "글로벌 리스크 영향",
+            "insight": "중동 지정학적 리스크가 국내 시장에도 영향 예상",
+            "url": "https://finance.naver.com"
+          },
+          {
+            "text": "부동산 금융",
+            "insight": "미국 모기지 금리 급등이 국내 부동산 정책에도 시사점 제공",
+            "url": "https://finance.naver.com"
+          }
+        ]
+      }
+    }
+  ]
+}
