@@ -87,6 +87,45 @@
           "url": "https://n.news.naver.com/article/011/0004607350"
         }
       ]
+    },
+    {
+      "type": "ai",
+      "emoji": "🤖",
+      "title": "AI 데일리",
+      "highlight": "OpenAI GPT-5.4 출시와 $122B 투자 유치",
+      "insight": "AI 인프라 전쟁이 본격화되며 OpenAI가 규모의 경제로 격차 벌리기",
+      "items": [
+        {
+          "text": "Gemma 4: 바이트 당 가장 뛰어난 오픈모델",
+          "insight": "고급 추론과 에이전틱 워크플로우 특화",
+          "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/"
+        },
+        {
+          "text": "Anthropic의 Coefficient Bio $400M 인수",
+          "insight": "AI와 바이오 융합 가속화, 스텔스 스타트업 대규모 인수",
+          "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/"
+        },
+        {
+          "text": "OpenAI의 122억 달러 신규 투자 유치",
+          "insight": "AI 인프라 글로벌 확장과 프론티어 모델 개발 위한 사상 최대 투자",
+          "url": "https://openai.com/index/accelerating-the-next-phase-ai"
+        },
+        {
+          "text": "Claude Code, OpenClaw 사용 시 추가 요금 부과",
+          "insight": "서드파티 툴 통합 비용 증가로 개발자 워크플로우 비용 상승",
+          "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/"
+        }
+      ],
+      "community": [
+        {
+          "text": "LLM-Wiki: LLM으로 개인 지식저장소 구축하기",
+          "url": "https://news.hada.io/topic?id=28208"
+        },
+        {
+          "text": "Claude Code가 23년간 숨겨진 Linux 취약점 발견",
+          "url": "https://news.hada.io/topic?id=28207"
+        }
+      ]
     }
   ]
 }
