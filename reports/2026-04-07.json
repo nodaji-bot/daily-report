@@ -77,6 +77,45 @@
           "url": "https://n.news.naver.com/article/018/0006251561"
         }
       ]
+    },
+    {
+      "type": "ai",
+      "emoji": "🤖",
+      "title": "AI 데일리",
+      "highlight": "OpenAI, Safety Fellowship으로 AGI 시대 안전성 투자",
+      "insight": "AI 기업들이 안전성에 대한 투자를 늘리면서, 실제 AGI 도래를 대비한 인프라와 정책 정비가 본격화되고 있음",
+      "items": [
+        {
+          "text": "OpenAI Safety Fellowship 발표",
+          "insight": "독립적인 안전성·정렬 연구 지원으로 차세대 인재 개발",
+          "url": "https://openai.com/index/introducing-openai-safety-fellowship"
+        },
+        {
+          "text": "Anthropic, Google·Broadcom과 컴퓨트 파트너십",
+          "insight": "수 기가와트 규모 차세대 컴퓨팅 인프라 구축",
+          "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute"
+        },
+        {
+          "text": "Gemma 4 모델 출시",
+          "insight": "바이트 당 가장 능력 있는 오픈 모델, 에이전틱 워크플로우 전용",
+          "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/"
+        },
+        {
+          "text": "Google DeepMind 융합 에너지 파트너십",
+          "insight": "Commonwealth Fusion Systems와 협력으로 청정에너지 가속화",
+          "url": "https://deepmind.google/blog/bringing-ai-to-the-next-generation-of-fusion-energy/"
+        }
+      ],
+      "community": [
+        {
+          "text": "rtk - LLM 토큰 90% 절약 CLI",
+          "url": "https://github.com/rtk-ai/rtk"
+        },
+        {
+          "text": "InsForge - AI 코딩 에이전트 백엔드",
+          "url": "https://github.com/InsForge/InsForge"
+        }
+      ]
     }
   ]
 }
