@@ -1,0 +1,48 @@
+{
+  "date": "2026-04-07",
+  "reports": [
+    {
+      "type": "economy",
+      "emoji": "📰",
+      "title": "경제 뉴스",
+      "highlight": "삼성전자 1분기 영업이익 57.2조원 기록으로 전년 동기 대비 755% 급증",
+      "insight": "반도체 슈퍼 사이클과 AI 수요 급증으로 기업 실적 폭발적 개선, 하지만 글로벌 경제 불확실성 여전히 높음",
+      "sections": {
+        "🇰🇷 한국": [
+          {
+            "text": "삼성전자 1분기 영업이익 57조2000억원",
+            "insight": "전년 대비 755%↑, 분기 첫 50조 돌파",
+            "url": "https://www.mk.co.kr/news/business/12009719"
+          },
+          {
+            "text": "금융시장 흔들리고 물가·성장률 타격",
+            "insight": "경제심리지수 11개월 來 최저",
+            "url": "https://www.mk.co.kr/news/economy/12009750"
+          },
+          {
+            "text": "아파트 매물 줄고 가격 다시 뛰자",
+            "insight": "다주택자 매각기간 3주 더 연장",
+            "url": "https://www.mk.co.kr/news/realestate/12009393"
+          }
+        ],
+        "🇺🇸 미국": [
+          {
+            "text": "Jamie Dimon 경제위험 경고",
+            "insight": "JPMorgan CEO 연례 서한에서 인플레이션 위험 지적",
+            "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lQajhyakVCSGQxZWVJdmZmTnpDZ0FQAQ"
+          },
+          {
+            "text": "다우지수 46,669.88",
+            "insight": "소폭 상승 (+0.36%), 견조한 흐름",
+            "url": "https://www.google.com/search?q=INDEXDJX+.DJI&hl=en&source=news"
+          },
+          {
+            "text": "나스닥 21,996.34",
+            "insight": "기술주 강세 지속 (+0.54%)",
+            "url": "https://www.google.com/search?q=INDEXNASDAQ+.IXIC&hl=en&source=news"
+          }
+        ]
+      }
+    }
+  ]
+}
