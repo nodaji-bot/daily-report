@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-08",
+  "reports": [
+    {
+      "type": "economy",
+      "emoji": "📰",
+      "title": "경제 뉴스",
+      "highlight": "트럼프가 이란과의 갈등 일시 중단을 시사하며 유가 급락과 주식시장 반등이 동시에 나타남",
+      "insight": "호르무즈 해협 위기 속에서도 외교적 해결 기대감이 시장을 안정시키는 중",
+      "sections": {
+        "🇰🇷 한국": [
+          {
+            "text": "코스피 5.64% 급등",
+            "insight": "이란 갈등 완화 기대감으로 반도체·에너지株 동반 상승",
+            "url": "https://finance.naver.com/news/news_read.naver?article_id=0000489321&office_id=629"
+          },
+          {
+            "text": "삼성SDS, IT서비스 수주 확대",
+            "insight": "목표가 13% 상향으로 20만원대 돌파",
+            "url": "https://finance.naver.com/news/news_read.naver?article_id=0005341247&office_id=008"
+          },
+          {
+            "text": "KB증권 ETF 신상품 출시",
+            "insight": "미국 성장주 추종 상품으로 투자 다각화",
+            "url": "https://finance.naver.com/news/news_read.naver?article_id=0016008333&office_id=001"
+          },
+          {
+            "text": "KAI 수주 확대 전망",
+            "insight": "방산 발주 증가로 목표가 41.9% 상승",
+            "url": "https://finance.naver.com/news/news_read.naver?article_id=0005341246&office_id=008"
+          }
+        ],
+        "🇺🇸 미국": [
+          {
+            "text": "다우선물 900포인트 급등",
+            "insight": "이란 공격 2주 중단 발언으로 안전자산 선호 완화",
+            "url": "https://news.google.com/read/CBMid0FVX3lxTE9rMlk3WVZmMTNkWFV6cXpCUkJTR0o2dkotVFlEU2R1V2twYV9yMllSQi1ncGJRMlE0N3ZSTkQtYmE5QjR0SFJ4Tm9CV3V5S0N3Y1dYMHg2Z05tRDFjb3Q1b1ZsYV9aeTUtRDJmWkRRbEVRVEE2S2pJ?hl=en-US&gl=US&ceid=US%3Aen"
+          },
+          {
+            "text": "유가 12% 폭락",
+            "insight": "중동 긴장 완화 기대로 에너지 부문 급반전",
+            "url": "https://news.google.com/read/CBMilAFBVV85cUxNRldfZjhucjlVZExjR0tBZ3dUNzhMZ0RZWUN2NTVLVGZSdzQ2Ri1MSWk5U1RPVVFFTTFuUjM2NXNVN2FzbjRtc1VrbkdVTXlQb0FubGJUMHo2NTlWLUJVakFxMUZhN0RjQWVTT0dKYWczdFlsUGZSYi1VOWo3dU1ZeG9tcm1MeW1hcGdrNlc4NGtzZjZQ?hl=en-US&gl=US&ceid=US%3Aen"
+          },
+          {
+            "text": "현물유가 배럴당 150달러 근접",
+            "insight": "호르무즈 해협 위기로 사상 최고치 기록",
+            "url": "https://news.google.com/read/CBMixAFBVV85cUxOZFpWRERLbXFJcjA1YWtGb1AxUTBPUnNOQ0ZiMUZJYjdOTkN1S3lIbklodktvOUlfRkpHZHZ2dlFMcF9WdlBzRTlLcDRQUXFEUmZKcmY1aEFGcTJqcm1SNjRjRWo2WktxdWlZQXNnS2RGSlZNdEtCOG9HUGlnWl9zNTZGWld1VVdkdG8tV3BYcUFuelgxZmtCMUpJVFRuZUdaMjZ6dDJ3MG5EWk1YeW51d2hZV3c2UFdaU3B5dndKOUtkb0Nl?hl=en-US&gl=US&ceid=US%3Aen"
+          }
+        ]
+      }
+    }
+  ]
+}
