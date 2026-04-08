@@ -82,6 +82,45 @@
           "url": "https://n.news.naver.com/article/016/0002625811"
         }
       ]
+    },
+    {
+      "type": "ai",
+      "emoji": "🤖",
+      "title": "AI 데일리",
+      "highlight": "OpenAI-Amazon 전략적 파트너십 + $110B 투자로 AI 인프라 확장 경쟁 새 국면",
+      "insight": "AI 업계가 막대한 자본과 파트너십을 바탕으로 차세대 컴퓨팅 인프라 확보 경쟁에 돌입하며, 안전성과 오픈소스 민주화도 동시 진행 중",
+      "items": [
+        {
+          "text": "Project Glasswing",
+          "insight": "Anthropic 주도 글로벌 소프트웨어 보안 이니셔티브",
+          "url": "https://www.anthropic.com/glasswing"
+        },
+        {
+          "text": "Gemma 4 오픈소스 모델",
+          "insight": "Google, 바이트당 최고 성능 오픈소스로 AI 민주화 가속",
+          "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/"
+        },
+        {
+          "text": "OpenAI Safety Fellowship",
+          "insight": "독립적 AI 안전성 연구 지원 프로그램",
+          "url": "https://openai.com/index/introducing-openai-safety-fellowship"
+        },
+        {
+          "text": "GPT-5.4 mini/nano 출시",
+          "insight": "코딩·멀티모달 최적화 경량 모델",
+          "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
+        }
+      ],
+      "community": [
+        {
+          "text": "AI 코딩 에이전트용 엔지니어링 스킬 모음",
+          "url": "https://github.com/addyosmani/agent-skills"
+        },
+        {
+          "text": "Claude Code 품질 저하 이슈",
+          "url": "https://github.com/anthropics/claude-code/issues/42796"
+        }
+      ]
     }
   ]
 }
