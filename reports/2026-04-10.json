@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-10",
+  "reports": [
+    {
+      "type": "economy",
+      "emoji": "📰",
+      "title": "경제 뉴스",
+      "highlight": "US Postal Service pension plan suspension — 미국 우편공사가 유동성 위기로 직원 연금 기여를 중단. 공공 서비스의 재정 압박이 경제 전반에 미칠 신호",
+      "insight": "공공기관 재정 압박과 기업 구조조정이 동반 진행되면서 노동시장 불안정성 증가. Amazon의 대규모 투자는 긍정적 신호이나 전반적으로 비용 절감 모드",
+      "sections": {
+        "🇰🇷 한국": [
+          {
+            "text": "네이버 금융 접근 제한",
+            "insight": "한국 경제 뉴스 수집에 기술적 제약 발생",
+            "url": "https://finance.naver.com/"
+          },
+          {
+            "text": "한국 관련 국제 뉴스 부족",
+            "insight": "해외 매체에서 한국 경제 이슈 보도 미비",
+            "url": ""
+          },
+          {
+            "text": "KRX 데이터 관련",
+            "insight": "네이버페이 내 한국거래소 정보 제공 확인",
+            "url": "https://finance.naver.com/"
+          }
+        ],
+        "🇺🇸 미국": [
+          {
+            "text": "USPS 연금 기여 중단",
+            "insight": "유동성 위기로 현금 보존 조치 실행",
+            "url": "https://www.businessinsider.com/usps-suspends-pension-contributions-liquidity-crisis-financial-challenges-2025-4"
+          },
+          {
+            "text": "Amazon $25B 미시시피 투자",
+            "insight": "데이터센터 건설로 2,000개 일자리 창출",
+            "url": "https://finance.yahoo.com/news/amazon-stock-amzn-pops-25b-150055555.html"
+          },
+          {
+            "text": "Disney 1,000명 해고 계획",
+            "insight": "새 CEO 하 구조조정 단행",
+            "url": "https://finance.yahoo.com/news/disney-plans-layoffs-under-new-ceo-josh-damaro-230000555.html"
+          },
+          {
+            "text": "미국 인플레이션 2월 3% 유지",
+            "insight": "연준 정책에 부담으로 작용",
+            "url": "https://finance.yahoo.com/news/inflation-held-sticky-3-us-headed-war-iran-110000555.html"
+          }
+        ]
+      }
+    }
+  ]
+}
