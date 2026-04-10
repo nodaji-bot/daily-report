@@ -82,6 +82,45 @@
           "url": "https://n.news.naver.com/article/009/0005663761"
         }
       ]
+    },
+    {
+      "type": "ai",
+      "emoji": "🤖",
+      "title": "AI 데일리",
+      "highlight": "Project Glasswing — Anthropic이 AWS, Apple, NVIDIA, Microsoft 등 12개 글로벌 기업과 함께 중요 소프트웨어 보안을 위한 대규모 이니셔티브 시작",
+      "insight": "AI 시대 인프라 보안의 새로운 패러다임을 제시",
+      "items": [
+        {
+          "text": "GPT-5.4",
+          "insight": "OpenAI의 새로운 플래그십 모델, 코딩·컴퓨터 사용·1M토큰 컨텍스트 지원",
+          "url": "https://openai.com/index/introducing-gpt-5-4"
+        },
+        {
+          "text": "Gemma 4",
+          "insight": "Google DeepMind의 가장 지능적인 오픈 모델, 고도화된 추론과 에이전틱 워크플로우에 특화",
+          "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/"
+        },
+        {
+          "text": "Claude Sonnet 4.6",
+          "insight": "Anthropic의 코딩·에이전트·전문 업무 성능 대폭 향상",
+          "url": "https://www.anthropic.com/news/claude-sonnet-4-6"
+        },
+        {
+          "text": "OpenAI $122B 펀딩",
+          "insight": "AI의 다음 단계 가속화를 위한 대규모 투자 유치",
+          "url": "https://openai.com/index/accelerating-the-next-phase-ai"
+        }
+      ],
+      "community": [
+        {
+          "text": "legalize-kr",
+          "url": "https://legalize.kr"
+        },
+        {
+          "text": "agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills"
+        }
+      ]
     }
   ]
 }
