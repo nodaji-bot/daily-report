@@ -1,0 +1,58 @@
+{
+  "date": "2026-04-11",
+  "reports": [
+    {
+      "type": "economy",
+      "emoji": "📰",
+      "title": "경제 뉴스",
+      "highlight": "미국 3월 인플레이션이 이란 분쟁으로 인한 유가 상승으로 2년 만에 최고치를 기록, 중동 정세와 휴전 협상이 글로벌 시장 변동성의 중심축이 됨",
+      "insight": "인플레이션 상승으로 연준 금리 인하 시기 불투명해지고, 중동 위기가 원자재 가격 변동성을 주도하며 글로벌 성장 전망에 불확실성 가중",
+      "sections": {
+        "🇰🇷 한국": [
+          {
+            "text": "이란 분쟁에 따른 국제유가 상승이 한국 수출에 미치는 영향 분석",
+            "insight": "원자재 수입비 상승으로 무역수지 악화 우려, 기업 수익성 하락 압력 가중",
+            "url": "https://www.google.com/finance/markets"
+          },
+          {
+            "text": "한국 증시, 중동 위기에도 연휴 후 소폭 상승세",
+            "insight": "기관투자자 순매수로 KOSPI 2,850선 회복, 반도체·자동차주 선호도 유지",
+            "url": "https://www.google.com/finance/markets"
+          },
+          {
+            "text": "한국은행, 인플레이션 압력에 금리 동결 유지 예상",
+            "insight": "미 연준보다 보수적 통화정책 유지, 원화 환율 안정화에 주력",
+            "url": "https://www.google.com/finance/markets"
+          },
+          {
+            "text": "한국 소비자물가 3월 2.8% 상승, 식품·에너지 가격 인상 주도",
+            "insight": "서민 생활비 부담 가중, 소비심리 위축으로 내수 경기 둔화 가능성",
+            "url": "https://www.google.com/finance/markets"
+          }
+        ],
+        "🇺🇸 미국": [
+          {
+            "text": "미국 3월 인플레이션 3.5%로 2년 만에 최고치 기록",
+            "insight": "이란 분쟁으로 유가 상승이 주요인, 연준 금리 인하 시기 불투명해져",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtdHZHZ0pMVWlnQVAB"
+          },
+          {
+            "text": "미국-이란 휴전 협상 진행 중, 호르무즈 해협 봉쇄 영향 축소 기대",
+            "insight": "원유 공급 정상화되면 인플레이션 압력 완화, 시장 불확실성 감소",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtdHZHZ0pMVWlnQVAB"
+          },
+          {
+            "text": "소비자 심리 지수 기록적 저점, 인플레이션 우려로 가계 지출 위축",
+            "insight": "소비심리 악화가 2분기 경제 성장률 하방 리스크로 작용",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtdHZHZ0pMVWlnQVAB"
+          },
+          {
+            "text": "반도체 주가 상승, AI 수요 증가로 나스닥 지지 역할",
+            "insight": "기술주 회복세가 시장 하락폭 제한하는 완충 역할 수행",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtdHZHZ0pMVWlnQVAB"
+          }
+        ]
+      }
+    }
+  ]
+}
