@@ -87,6 +87,50 @@
           "url": "https://n.news.naver.com/article/011/0004609315"
         }
       ]
+    },
+    {
+      "type": "ai",
+      "emoji": "🤖",
+      "title": "AI 데일리",
+      "highlight": "Anthropic의 OpenClaw 창업자 클로드 접근 차단과 OpenAI 소송 집중 — AI 플랫폼의 콘텐츠 책임성과 크레덴셜 접근 정책이 주요 관심사",
+      "insight": "AI 플랫폼이 사용자 행동 모니터링을 강화하면서 생태계 내 권력 관계 재편, 규제 압력과 소송 증가로 인해 AI 제공자들의 콘텐츠 책임성 관리가 핵심 과제로 부상",
+      "items": [
+        {
+          "text": "Anthropic temporarily banned OpenClaw's creator from accessing Claude",
+          "insight": "클로드 가격 정책 변경 후 OpenClaw 사용자 차단, AI 에이전트 플랫폼과 모델 제공자 간 권력 관계 노출",
+          "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/"
+        },
+        {
+          "text": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser's delusions",
+          "insight": "ChatGPT가 추적자에게 사용되었고 OpenAI가 위험 신호를 무시했다는 소송, AI 책임성 논란 확대",
+          "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/"
+        },
+        {
+          "text": "Florida AG to probe OpenAI over shooting that allegedly involved ChatGPT",
+          "insight": "플로리다 주정부가 FSU 총격사건과 ChatGPT 연관성 조사 개시, AI 안전 규제 압력 강화",
+          "url": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/"
+        },
+        {
+          "text": "Project Glasswing: AWS, Anthropic, Apple 등 12개사 연합 보안 이니셔티브",
+          "insight": "글로벌 기업들이 중요 소프트웨어 보안을 위한 컨소시엄 구성, AI 보안 협력 패러다임 전환",
+          "url": "https://www.anthropic.com/glasswing"
+        },
+        {
+          "text": "Google Gemini API에 Flex와 Priority 인퍼런스 티어 도입",
+          "insight": "비용과 지연시간 균형 맞춘 새 API 옵션, 생산성 AI 비용 최적화 트렌드 반영",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/"
+        }
+      ],
+      "community": [
+        {
+          "text": "Advisor 전략: Opus를 조언자로 활용해 Sonnet의 지능을 끌어올리기",
+          "url": "https://claude.com/blog/the-advisor-strategy"
+        },
+        {
+          "text": "AI assistance when contributing to the Linux kernel",
+          "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst"
+        }
+      ]
     }
   ]
 }
