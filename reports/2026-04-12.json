@@ -77,6 +77,50 @@
           "url": "https://n.news.naver.com/article/277/0005748142"
         }
       ]
+    },
+    {
+      "type": "ai",
+      "emoji": "🤖",
+      "title": "AI 데일리",
+      "highlight": "Sam Altman의 집 공격 사건과 New Yorker 기사 반박으로 AI 리더십 논쟁 격화",
+      "insight": "AI 기업 CEO들의 개인 안전과 기업 신뢰성이 동시에 위협받는 상황에서, AI 안전성과 책임 문제가 더욱 부각됨",
+      "items": [
+        {
+          "text": "Sam Altman responds to New Yorker article after attack on his home",
+          "insight": "OpenAI CEO의 가택 공격과 함께 신뢰성 의문 제기 기사에 반박, AI 리더십 논쟁 격화",
+          "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/"
+        },
+        {
+          "text": "Stalking victim sues OpenAI, claims ChatGPT fueled abuse",
+          "insight": "OpenAI가 위험 사용자 경고를 무시한 채 스토킹 피해 발생, AI 안전성과 책임 문제 부각",
+          "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/"
+        },
+        {
+          "text": "ChatGPT finally offers $100/month Pro plan",
+          "insight": "$20-$200 사이 가격 공백을 메우는 중간 계층 플랜 출시, 사용자층 확대 전략",
+          "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/"
+        },
+        {
+          "text": "Anthropic temporarily banned OpenClaw creator from accessing Claude",
+          "insight": "API 크레딧 사용 정책 변경 후 접근 차단, AI 플랫폼과 개발자 간 관계 논란",
+          "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/"
+        },
+        {
+          "text": "Project Glasswing - 12 companies collaborate on critical software security",
+          "insight": "Amazon, Google, Microsoft, NVIDIA 등 12개사가 핵심 소프트웨어 보안 강화 협력 발표",
+          "url": "https://www.anthropic.com/glasswing"
+        }
+      ],
+      "community": [
+        {
+          "text": "Advisor 전략: Opus를 조언자로 활용해 Sonnet의 지능을 끌어올리기",
+          "url": "https://claude.com/blog/the-advisor-strategy"
+        },
+        {
+          "text": "agent-skills - AI 코딩 에이전트를 위한 프로덕션급 엔지니어링 스킬 모음",
+          "url": "https://github.com/addyosmani/agent-skills"
+        }
+      ]
     }
   ]
 }
