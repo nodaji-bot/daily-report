@@ -1,0 +1,48 @@
+{
+  "date": "2026-04-12",
+  "reports": [
+    {
+      "type": "economy",
+      "emoji": "📰",
+      "title": "경제 뉴스",
+      "highlight": "중동 사태로 인한 국제유가 급등이 한국 농업과 미국 인플레이션에 동시 타격",
+      "insight": "원자재 가격 상승이 양국 경제에 인플레이션 압력으로 작용하며, 농가 비용 증가와 소비자 물가 상승을 초래할 전망",
+      "sections": {
+        "🇰🇷 한국": [
+          {
+            "text": "포스코 협력업체 직고용에 포항 각계 환영…현장은 온도 차",
+            "insight": "포스코가 협력사 직원 7천명 직고용 결정으로 고용시장 구조 변화, 노조와 직원 간 갈등 잠재",
+            "url": "https://www.yna.co.kr/view/AKR20260410135351053?section=economy/all"
+          },
+          {
+            "text": "수박 주산지 함안, 유가 급등에 농자재 조기 확보 등 대책 마련",
+            "insight": "중동 사태로 국제유가 20% 이상 급등, 비닐·비료 등 농자재 가격 상승이 농가 부담 가중",
+            "url": "https://www.yna.co.kr/view/AKR20260410146700052?section=economy/all"
+          },
+          {
+            "text": "하나은행 모바일 앱에서 리디 웹툰·웹소설 콘텐츠 본다",
+            "insight": "금융-콘텐츠 융합 가속화, 디지털 플랫폼 경쟁 심화로 고객 유치 경쟁 치열",
+            "url": "https://www.yna.co.kr/view/AKR20260410156000002?section=economy/all"
+          }
+        ],
+        "🇺🇸 미국": [
+          {
+            "text": "Record gas price surge fuels sharp rise in U.S. inflation",
+            "insight": "3월 미국 인플레이션 가속화, 특히 가스 가격 급등이 주요 원인으로 긴축 기대 강화",
+            "url": "https://news.google.com/stories/CBMiswFBVV95cUxNWDhackU4RWRTSmJrQ1hCa1gyWG1jZEQxaXU2TlpfYS1Db2dqU1pBaTVkNThlekVDaVU0MW1aa2dSWDZicGNLVTJtczQ0YlRxdXlQbm8xMnVzSmJ6NGs3MnJ1NmNEbW5wclRpZzZfQTIzc3ZGRWhJQWI3c0YwcWpLVjZENjJ0XzhQUHo3XzVlN2Q2ZlhZRExFMlZUR3VKaEZjQTVDeXVMV2luYU9iaUNuYjNkYw"
+          },
+          {
+            "text": "Inflation in March",
+            "insight": "3월 소비자물가 상승률 예상치 초과, Fed의 금리 인하 시기 불확실성 증가",
+            "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2k4OGUzckVCRXVXVXEwZXB5dXN5Z0FQAQ"
+          },
+          {
+            "text": "Opinion | Prices Are High. Here's One Reason",
+            "insight": "지속적인 물가 상승에 대한 구조적 원인 분석, 글로벌 공급망 재편 필요성 제기",
+            "url": "https://news.google.com/stories/CBMijgFBVV95cUxPNFhhaEEzdW1pemUyWWR5RXhYR240NlEtdGltRm5XaHBxTjU1am1BWUR2dFpsZ25faHJ0U0I4UEJJVk9Nb1BsZzZzSFprVlBXSUJja1lkZFRkUkZ5YkR6YU5rT24yNlFnUXhUMTYzYWl6eEdBNm5hRGZOdmpob21YakJfSk14dm52cHNxU3dn"
+          }
+        ]
+      }
+    }
+  ]
+}
