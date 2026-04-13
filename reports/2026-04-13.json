@@ -92,6 +92,50 @@
           "url": "https://n.news.naver.com/article/031/0001021549"
         }
       ]
+    },
+    {
+      "type": "ai",
+      "emoji": "🤖",
+      "title": "AI 데일리",
+      "highlight": "정부가 은행들에 Anthropic Mythos 테스트 장려 vs. DoD는 '공급망 위험' 지정",
+      "insight": "AI 안전 논쟁과 정부 개입 간 갈등 심화, 은행권 AI 도입 가속화 신호",
+      "items": [
+        {
+          "text": "Trump officials may be encouraging banks to test Anthropic's Mythos model",
+          "insight": "DoD의 '공급망 위험' 지정 직후 정부가 오히려 은행들에 Anthropic 모델 테스트 장려하는 역설적 상황",
+          "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/"
+        },
+        {
+          "text": "Apple reportedly testing four designs for upcoming smart glasses",
+          "insight": "애플이 4가지 디자인의 스마트 글래스 프로토타입 테스트 중, 이전 AR/VR 계획보다 축소된 형태로 AI 하드웨어 경쟁 가속",
+          "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/"
+        },
+        {
+          "text": "Meta의 HyperAgents — 에이전트가 스스로 자신의 하네스를 설계할 때",
+          "insight": "Meta와 UBC가 공동 발표한 HyperAgents는 작업 수행 코드뿐 아니라 개선 메커니즘 자체까지 스스로 수정하는 자기참조적 AI 에이전트 프레임워크",
+          "url": "https://cobusgreyling.medium.com/hyperagents-by-meta-892580e14f5b"
+        },
+        {
+          "text": "Taking on CUDA with ROCm: 'One Step After Another'",
+          "insight": "AMD의 ROCm이 엔터프라이즈 환경에서 CUDA 도전 중, 오픈소스 대안으로의 가능성과 한계 동시에 GPU 생태계 경쟁 심화",
+          "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/"
+        },
+        {
+          "text": "Managed Agents 확장하기: 두뇌와 손을 분리하기",
+          "insight": "Anthropic의 Managed Agents 서비스가 하네스 인터페이스와 모델 실행을 분리해 장기 실행 에이전트의 안정성 확보, 에이전트 서비스화 가속",
+          "url": "https://www.anthropic.com/engineering/managed-agents"
+        }
+      ],
+      "community": [
+        {
+          "text": "At the HumanX conference, everyone was talking about Claude",
+          "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/"
+        },
+        {
+          "text": "Anthropic downgraded cache TTL on March 6th",
+          "url": "https://github.com/anthropics/claude-code/issues/46829"
+        }
+      ]
     }
   ]
 }
