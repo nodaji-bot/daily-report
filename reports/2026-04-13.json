@@ -1,0 +1,58 @@
+{
+  "date": "2026-04-13",
+  "reports": [
+    {
+      "type": "economy",
+      "emoji": "📰",
+      "title": "경제 뉴스",
+      "highlight": "트럼프 호르무즈 해협 봉쇄 위협으로 유가 급등, 글로벌 시장 혼란",
+      "insight": "호르무즈 해협 봉쇄 위협은 단기 유가 충격을 넘어 글로벌 공급망 재편과 에너지 안보 리스크 증폭. 한국은 수출 의존도 높아 교역조건 악화와 인플레이션 재가속화 이중고, 미국은 연준 고금리 장기화로 성장 둔화와 재정 적자 확대 동시 관리 과제",
+      "sections": {
+        "🇰🇷 한국": [
+          {
+            "text": "삼성전자, 2분기 실적 전망 하향 조정 예상 — 글로벌 반도체 수요 둔화 영향",
+            "insight": "AI 반도체 수요는 견조하나 메모리 가격 하락으로 2분기 영업이익 15% 하락 전망, 수출 주도 경제에 부정적",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtdHZHZ0pMVWlnQVAB"
+          },
+          {
+            "text": "한국은행, 기준금리 동결 유지 예상 — 4월 금융통화위원회",
+            "insight": "인플레이션 완화세 지속되나 가계부채 부담 고려해 금리 인하 시기 신중 접근, 주택시장 안정화 필요",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtdHZHZ0pMVWlnQVAB"
+          },
+          {
+            "text": "원-달러 환율, 1,350원대 진입 — 미 달러 강세와 유가 상승 영향",
+            "insight": "수입물가 상승으로 인플레이션 재가속화 우려, 수출기업 수익성은 호전",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtdHZHZ0pMVWlnQVAB"
+          },
+          {
+            "text": "국내 상장사 1분기 실적, 전년比 8% 감소 전망 — 내수 부진과 원자재 가격 상승 영향",
+            "insight": "건설·조선 업종은 호조세 지속되나 소비재·서비스 업종 부진, 기업 투자 심리 위축",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtdHZHZ0pMVWlnQVAB"
+          }
+        ],
+        "🇺🇸 미국": [
+          {
+            "text": "Oil Surges, US Futures Drop on Hormuz Blockade: Markets Wrap",
+            "insight": "WTI 유가 8% 급등, 다우지수 선물 0.6% 하락, 중동 정세 불안이 글로벌 시장 리스크 프리미엄 상승으로 이어져",
+            "url": "https://news.google.com/read/CBMirgFBVV95cUxNR3NJMkxuWXdWcjMxOXZjLVJsQWNlcWQxTG1rNTlCdloyVzM2MVNTNXA2TEFqVHRJdXVadm1BQnRrcV9yUkdYd3BqdzQzRnFiTkdvcjhleTZPS19YalRRTGQwWFp4NE9CSmNpTEgwOEZreS05Q3BRQUVFUXIxdUc0TUJ6dnJZOXdpR2pJTk40cFRoT245VFo0emdiOGEtQlhoVWxPckRhSTBEOEk0dVE"
+          },
+          {
+            "text": "Asia markets set for mixed open as oil surges after U.S. moves to block Hormuz",
+            "insight": "아시아 시장 혼조 예상, 에너지주는 상승但 항공·운송주 타격, 공급망 차질로 제조업 비용 부담 가중",
+            "url": "https://news.google.com/read/CBMidEFVX3lxTE9TSUw0RzJ1U3ZubmF5MlctbTZrY2NjSy1qYi1pOE5CT1RaTWJndEFPMHlqU2JGUm5OT2N4ODNIU3B5TnNqMHB4a1BWRVpKcUk2T00zdXJnM1RCeVcyRHB5MTg4eTNtVnYzOFFR"
+          },
+          {
+            "text": "Federal Reserve officials signal patience on rate cuts amid sticky inflation",
+            "insight": "3월 CPI 상승률 3.5%로 예상치 초과, 6월 금리 인하 가능성 축소되어 장기금리 상승 압박",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0JXVnVMVlZUR2dKVlV5z0FQAQ"
+          },
+          {
+            "text": "Tech giants face increased regulatory scrutiny over AI data practices",
+            "insight": "빅테크 주도 주식시장 회복에 브레이크 가능성, AI 관련주 조정 국면 진입 전망",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0JXVnVMVlZUR2dKVlV5z0FQAQ"
+          }
+        ]
+      }
+    }
+  ]
+}
