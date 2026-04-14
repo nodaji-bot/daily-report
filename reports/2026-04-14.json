@@ -1,0 +1,48 @@
+{
+  "date": "2026-04-14",
+  "reports": [
+    {
+      "type": "economy",
+      "emoji": "📰",
+      "title": "경제 뉴스",
+      "highlight": "미국 3월 주택 판매 9개월 만에 최저치, 중동 긴장과 금리 상승으로 봄 주택 시장 정체",
+      "insight": "글로벌 금리 불확실성과 지리적 긴장이 소비와 투자를 동시에 위축시킬 위험. 한국 증시는 수출 의존도 높아 글로벌 수요 둔화에 취약할 수 있음. 주택 시장 냉각은 소비 위축으로 이어질 가능성 있어 주시 필요.",
+      "sections": {
+        "🇰🇷 한국": [
+          {
+            "text": "한국 증시, 글로벌 시장 변동성에 민감하게 반응 예상",
+            "insight": "글로벌 금리 불확실성 속에서 수출 주도형 한국 증시는 외국인 자금 흐름에 취약",
+            "url": "https://www.google.com/finance/"
+          },
+          {
+            "text": "원-달러 환율, 미국 인플레이션 데이터 주목",
+            "insight": "美 CPI 발표에 따라 환율 변동성 확대 가능, 수출기업 환차손 리스크 관리 필요",
+            "url": "https://www.google.com/finance/"
+          }
+        ],
+        "🇺🇸 미국": [
+          {
+            "text": "미국 3월 기존주택판매 9개월 만에 최저치 기록",
+            "insight": "금리 상승과 중동 전쟁 우려로 봄 주택 시장 냉각, 부동산 관련 산업에 부정적 영향",
+            "url": "https://news.google.com/topics/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pvcDVMekVCSFhwQjVodmRfaUJ5Z0FQAQ"
+          },
+          {
+            "text": "LVMH 1분기 매출, 예상치 밑돌며 럭셔리 회복세 제동",
+            "insight": "중동 전쟁 영향으로 소비심리 위축, 글로벌 럭셔리 주식 하락 압력",
+            "url": "https://news.google.com/topics/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2licC1Md0VCSDdMVUdOcVBJVXJDZ0FQAQ"
+          },
+          {
+            "text": "텍사스, 룰루레몬 '영구 화학물질' 사용 의혹으로 조사 개시",
+            "insight": "ESG 리스크 확대, 소비재 기업 환경 규제 강화 시그널",
+            "url": "https://news.google.com/topics/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pPaVB6ekVCSHZIY2F6MVNBc01pZ0FQAQ"
+          },
+          {
+            "text": "OpenAI CEO 표적 공격 사건으로 AI 산업 보안 논의 확대",
+            "insight": "테크 리더 안전 문제 부각, 산업 보안 비용 증가 압력",
+            "url": "https://news.google.com/topics/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lIel9QeEVCRzlvQ191RDlLSHV5z0FQAQ"
+          }
+        ]
+      }
+    }
+  ]
+}
