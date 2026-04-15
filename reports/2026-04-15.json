@@ -43,6 +43,50 @@
           }
         ]
       }
+    },
+    {
+      "type": "ai",
+      "emoji": "🤖",
+      "title": "AI 데일리",
+      "highlight": "Google Chrome에 AI Skills 기능 추가로 일상적 AI 활용 패턴 혁신",
+      "insight": "사용자가 빈번히 사용하는 AI 프롬프트를 웹사이트 간에 재사용 가능해지면서 ChatGPT 활용이 더 자연스러워지고 효율성 증가, 브라우저가 AI 에이전트 인프라 역할 강화",
+      "items": [
+        {
+          "text": "AI 데이터센터 스타트업 Fluidstack, 180억 달러 가치로 10억 달러 추가 투자 유치",
+          "insight": "Anthropic의 500억 달러 데이터센터 계약 후 4개월 만에 가치 두 배 이상 급증, AI 인프라 시장 폭발적 성장",
+          "url": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/"
+        },
+        {
+          "text": "Google, Chrome에 AI Skills 기능 추가",
+          "insight": "빈번히 사용하는 AI 프롬프트를 웹사이트 간에 저장하고 재사용하는 기능으로 AI 활용 패턴 혁신",
+          "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/"
+        },
+        {
+          "text": "Anthropic, Long-Term Benefit Trust 보드에 Vas Narasimhan 임명",
+          "insight": "노바티스 CEO가 AI 거버넌스 구조에 합류하며 의료-AI 접점 확대 시그널",
+          "url": "https://www.anthropic.com/news/narasimhan-board"
+        },
+        {
+          "text": "Google AI Economic Forum 워싱턴 DC에서 개최",
+          "insight": "정책 입안자와 기술 전문가가 AI의 경제적 영향 논의",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/"
+        },
+        {
+          "text": "OpenAI, AI 개인금융 스타트업 Hiro 인수",
+          "insight": "ChatGPT에 금융 계획 기능 추가를 위한 전략적 인수",
+          "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/"
+        }
+      ],
+      "community": [
+        {
+          "text": "Claude Code Routines",
+          "url": "https://code.claude.com/docs/en/routines"
+        },
+        {
+          "text": "Plain – The full-stack Python framework designed for humans and agents",
+          "url": "https://github.com/dropseed/plain"
+        }
+      ]
     }
   ]
 }
