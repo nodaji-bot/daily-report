@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-16",
+  "reports": [
+    {
+      "type": "economy",
+      "emoji": "📰",
+      "title": "경제 뉴스",
+      "highlight": "미국-이란 종전 협상 재개 기대로 글로벌 시장 안도감 확산, S&P500·나스닥 사상 최고치",
+      "insight": "지정학적 리스크 완화 기대가 시장 심리 회복으로 이어지며 기술주 중심 자금 유입 재개, 그러나 연준 독립성 위협은 금리 정책 불확실성 증가로 시장 불안 요소로 작용",
+      "sections": {
+        "🇰🇷 한국": [
+          {
+            "text": "국토부, 올해 수도권 공공주택 6.2만호 착공 추진",
+            "insight": "주택 시장 안정화 위해 공공주택 대량 공급, 부동산 정책 강화 신호",
+            "url": "https://n.news.naver.com/mnews/article/448/0000604195"
+          },
+          {
+            "text": "김회천 한수원 사장, 체코行…두코바니 원전 속도 낸다",
+            "insight": "한국 원전 기술 해외 수출 확대 기대, 에너지 안보 다각화 추진",
+            "url": "https://n.news.naver.com/mnews/article/029/0003021884"
+          },
+          {
+            "text": "미·이란 협상 기대에 S&P·나스닥, 사상 최고…코스피 상승 이어지나",
+            "insight": "글로벌 시장 안도감이 국내 증시에도 긍정적 영향, 기술주 중심 자금 유입 재개",
+            "url": "https://n.news.naver.com/mnews/hotissue/article/018/0006258184"
+          },
+          {
+            "text": "美반도체 숨고르기에도 SK하닉, 프리마켓서 강세",
+            "insight": "로보틱스 기대감에 현대차 강세, 업종 간 순환매 장세 전개 조짐",
+            "url": "https://n.news.naver.com/mnews/article/029/0003021970"
+          }
+        ],
+        "🇺🇸 미국": [
+          {
+            "text": "Trump threatens to fire Powell, wont halt probe of Fed renovations,insight:연준 독립성 위협, 금리 정책 불확실성 증가로 시장 불안 요소,url:https://news.google.com/read/CBMie0FVX3lxTFBfYm1jdHVudUd0bjg2TEM0eFNqN29pY202bUxaUDBRRnB2SzRZeUJmTDRsSnpObGwyWWtTeXhhcVllLUNhQkw1Zy1wRXlWa1hxWnRBLS1HMzB1S205R2ROUlQwSV9WQmp5S3FKTmdtWDJIRWFsNTJ6bWZ6RQ},{text:Trump says hell fire Powell next month if he stays in his role at the Fed",
+            "insight": "정치적 간섭으로 중앙은행 정책 신뢰도 하락 가능성",
+            "url": "https://news.google.com/read/CBMidEFVX3lxTE9kQmR0S05CQ3RaNUg0LWZaelRQQkZ2aXV6eG1wR1o3WDE0NUJtRGQ0ak5FWVljZzVaNnZBbm1ibXZzRndCczZSanJ3anNYSVpnbEVCZGVyTHZqZ0xTX1AyZDRZSU9OOEV5NUxXOGlZdWZsWF9U"
+          },
+          {
+            "text": "미·이란 협상 기대에 S&P500 연초 대비 손실 만회…올해 플러스 전환",
+            "insight": "지정학적 긴장 완화로 시장 심리 회복, 연초 낙폭 만회하며 상승세 전환",
+            "url": "https://n.news.naver.com/mnews/hotissue/article/018/0006256703"
+          },
+          {
+            "text": "뉴욕증시 혼조 마감... 나스닥·S&P 사상최고 경신",
+            "insight": "기술주 중심 강세 지속, AI 및 반도체 관련주 주도적 상승 흐름",
+            "url": "https://n.news.naver.com/mnews/article/123/0002381423"
+          }
+        ]
+      }
+    }
+  ]
+}
