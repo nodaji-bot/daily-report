@@ -82,6 +82,41 @@
           "url": "https://n.news.naver.com/article/011/0004611421"
         }
       ]
+    },
+    {
+      "type": "ai",
+      "emoji": "🤖",
+      "title": "AI 데일리",
+      "highlight": "OpenAI가 GPT-Rosalind를 발표하며 생명과학 연구에 본격 진출 — 최적화된 프론티어 추론 모델로 약물 발견·게놈 분석 가속화",
+      "insight": "OpenAI의 바이오테크 진출, Anthropic 성능 업그레이드, Google 브라우저 AI 통합이 동시에 진행되며 플랫폼 전쟁이 생태계 차원으로 확장됨. 바이오테크는 AI 성장의 다음 도약점으로 부상 중",
+      "items": [
+        {
+          "text": "OpenAI introduces GPT-Rosalind for life sciences research",
+          "insight": "약물 발견·게놈 분석·단백질 추론을 위한 생명과학 연구에 최적화된 프론티어 추론 모델 도입",
+          "url": "https://openai.com/index/introducing-gpt-rosalind"
+        },
+        {
+          "text": "Introducing Claude Opus 4.7",
+          "insight": "코딩·에이전트·비전·다단계 작업 전반 성능 강화로 경쟁 구도 재편",
+          "url": "https://www.anthropic.com/news/claude-opus-4-7"
+        },
+        {
+          "text": "Factory hits $1.5B valuation to build AI coding for enterprises",
+          "insight": "AI 코딩 스타트업이 150백만 달러 유치하며 엔터프라이즈 시장 공략 가속",
+          "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/"
+        },
+        {
+          "text": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+          "insight": "세밀한 오디오 태그로 표현력 있는 AI 음성의 정밀 제어 가능",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/"
+        },
+        {
+          "text": "A new way to explore the web with AI Mode in Chrome",
+          "insight": "Chrome 기본 브라우저에 AI 통합으로 웹 탐색 패러다임 변화 예고",
+          "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/"
+        }
+      ],
+      "community": []
     }
   ]
 }
