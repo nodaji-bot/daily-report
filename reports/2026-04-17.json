@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-17",
+  "reports": [
+    {
+      "type": "economy",
+      "emoji": "📰",
+      "title": "경제 뉴스",
+      "highlight": "S&P 500과 나스닥이 각각 0.26%, 0.36% 상승하며 사상 최고치 기록",
+      "insight": "이란 전쟁 해결 기대감 속 시장 낙관론 강화, 기술주 중심 강세 이어가. 하지만 항공업계 제트 연료 위기와 AI 버블 우려 등 리스크 요인도 존재",
+      "sections": {
+        "🇰🇷 한국": [
+          {
+            "text": "S&P 500과 나스닥 사상 최고치 경신, 기술주 중심 강세 지속",
+            "insight": "이란 전쟁 해결 기대감으로 글로벌 시장 낙관론 강화, 한국 수출기업에 긍정적 영향 예상",
+            "url": "https://finance.yahoo.com/"
+          },
+          {
+            "text": "TSMC, AI 칩 수요 강세로 매출 전망 상향 조정",
+            "insight": "AI 반도체 수요 급증으로 TSMC 실적 호전, 삼성전자·SK하이닉스에 파급 효과 기대",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtdHZHZ0pMVWlnQVAB?hl=en-US&gl=US&ceid=US%3Aen"
+          },
+          {
+            "text": "IMF \"미국 39조 달러 국가부채, 글로벌 문제...AI만이 구원할 수 있어\" 경고",
+            "insight": "미국 재정 적자 심화로 국채 프리미엄 하락, 글로벌 금융 시장 불안 요인",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtdHZHZ0pMVWlnQVAB?hl=en-US&gl=US&ceid=US%3Aen"
+          }
+        ],
+        "🇺🇸 미국": [
+          {
+            "text": "스피릿 항공, 이번 주 유동화 위험에 직면",
+            "insight": "제트 연료 가격 급등으로 항공업계 수익성 악화, 여행업계 전반에 부정적 영향",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtdHZHZ0pMVWlnQVAB?hl=en-US&gl=US&ceid=US%3Aen"
+          },
+          {
+            "text": "넷플릭스 Q1 실적 기대치 초과했으나 주가 하락, 리드 헤이스팅스 6월 이사회 퇴진 발표",
+            "insight": "실적은 좋았지만 미래 성장 전망에 대한 우려로 기술주 투자심리 경계 필요",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtdHZHZ0pMVWlnQVAB?hl=en-US&gl=US&ceid=US%3Aen"
+          },
+          {
+            "text": "알버즈, 신발 브랜드에서 AI 인프라 회사로 피벗하며 주가 582% 상승 후 급락",
+            "insight": "AI 버블 우려 현실화, AI 관련주 투자 시 신중한 접근 필요",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtdHZHZ0pMVWlnQVAB?hl=en-US&gl=US&ceid=US%3Aen"
+          },
+          {
+            "text": "IEA \"유럽, 제트 연료 6주치만 남았다\" 경고",
+            "insight": "에너지 공급 위기 심화, 항공 운임 상승 및 여행 비용 증가로 인플레이션 압력",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtdHZHZ0pMVWlnQVAB?hl=en-US&gl=US&ceid=US%3Aen"
+          }
+        ]
+      }
+    }
+  ]
+}
