@@ -82,6 +82,50 @@
           "url": "https://n.news.naver.com/article/023/0003971582"
         }
       ]
+    },
+    {
+      "type": "ai",
+      "emoji": "🤖",
+      "title": "AI 데일리",
+      "highlight": "Anthropic Claude Design 출시, OpenAI 기업 AI 전환",
+      "insight": "AI 메이저들의 전략 분화: Anthropic은 실용적 도구 확장, OpenAI는 기업 중심 집중, Google은 사용자 경험 통합, xAI는 음성 AI 확장. 생태계 포지셔닝이 명확해지는 중.",
+      "items": [
+        {
+          "text": "Anthropic launches Claude Design, a new product for creating quick visuals",
+          "insight": "비디자인 배경도 스타트업 창업가/PM이 발표자료, 프로토타입, 원페이저를 쉽게 만들 수 있도록 돕는 새로운 Anthropic Labs 기능",
+          "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/"
+        },
+        {
+          "text": "Introducing Claude Opus 4.7",
+          "insight": "코딩, 에이전트, 비전, 다단계 작업에서 향상된 성능과 일관성을 제공하는 최신 Opus 모델",
+          "url": "https://www.anthropic.com/news/claude-opus-4-7"
+        },
+        {
+          "text": "Grok Speech to Text and Text to Speech APIs",
+          "insight": "빠르고 정확한 음성 인식 API와 자연스러운 음성 합성 API 출시, 단순한 가격 책정과 다국어 지원",
+          "url": "https://x.ai/news/grok-stt-and-tts-apis"
+        },
+        {
+          "text": "A new way to explore the web with AI Mode in Chrome",
+          "insight": "Chrome에서 AI 모드 업그레이드로 웹 탐색 방식 혁신, Skills 기능으로 AI 워크플로우 저장/재사용 가능",
+          "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/"
+        },
+        {
+          "text": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed side quests",
+          "insight": "OpenAI가 Sora 팀 폐쇄와 과학팀 통합하며 소비자 모험에서 기업 AI로 급선회 전환, 주요 인재 이탈",
+          "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/"
+        }
+      ],
+      "community": [
+        {
+          "text": "Claude Design",
+          "url": "https://www.anthropic.com/news/claude-design-anthropic-labs"
+        },
+        {
+          "text": "Measuring Claude 4.7s tokenizer costs",
+          "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you"
+        }
+      ]
     }
   ]
 }
