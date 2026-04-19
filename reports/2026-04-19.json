@@ -1,0 +1,58 @@
+{
+  "date": "2026-04-19",
+  "reports": [
+    {
+      "type": "economy",
+      "emoji": "📰",
+      "title": "경제 뉴스",
+      "highlight": "중동 전쟁으로 인한 호르무즈 해협 재봉쇄가 글로벌 공급망 위협",
+      "insight": "중동 정세 불안이 에너지 시장과 글로벌 공급망에 이중 충격 — 항공 산업은 항공유 부족으로 직접 타격, 한국은 유가 상승과 IMF의 성장 전망 하향으로 이중고",
+      "sections": {
+        "🇰🇷 한국": [
+          {
+            "text": "대만에 추월 당한 한국 '더 밀린다'…IMF의 경고",
+            "insight": "IMF 전망에 따르면 5년 뒤 한국 1인당 GDP가 대만보다 1만 달러 이상 뒤처질 전망",
+            "url": "https://n.news.naver.com/mnews/article/215/0001249461"
+          },
+          {
+            "text": "기름값 소폭 상승…휘발유 이어 경유도 2천원 목전",
+            "insight": "중동 전쟁 여파로 전국 주유소 휘발유 평균 가격 리터당 2001원으로 상승",
+            "url": "https://n.news.naver.com/mnews/article/422/0000856389"
+          },
+          {
+            "text": "하루만에 다시 닫힌 호르무즈…트럼프, 백악관서 긴급회의",
+            "insight": "이란, 호르무즈 해협 개방 하루만에 재봉쇄하며 유조선 피격 발생",
+            "url": "https://n.news.naver.com/mnews/article/009/0005667920"
+          },
+          {
+            "text": "'이제는 사두면 오른다'…개미들 빚까지 끌어서 '몰빵'",
+            "insight": "코스피 상승 전망에 개미 투자자들의 대표 반도체 종목 '빚투' 증가",
+            "url": "https://n.news.naver.com/mnews/article/015/0005276610"
+          }
+        ],
+        "🇺🇸 미국": [
+          {
+            "text": "Jet fuel shortages lead to global airline flight cancellations",
+            "insight": "항공유 부족으로 전 세계 항공사 항공편 취소 확대",
+            "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lYcDVuMkVCR1d1R1ZUcEhHZVp5Z0FQAQ"
+          },
+          {
+            "text": "Judge blocks Nexstar-TEGNA merger over antitrust concerns",
+            "insight": "연방 판사가 넥스타-TEGNA TV 방송국 합병을 독점금지법 문제로 차단",
+            "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lvazdYMkVCRUtMVUg0OFpaSFV5Z0FQAQ"
+          },
+          {
+            "text": "American Airlines rejects potential merger with United Airlines",
+            "insight": "아메리칸 항공이 유나이티드 항공과의 잠재적 합병 제안 거절",
+            "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ppOWFEMEVCSDB4MmdMbG9pNU55Z0FQAQ"
+          },
+          {
+            "text": "Federal judge blocks politically fraught TV station merger",
+            "insight": "연방 판사가 정치적 논란의 TV 방송국 합병 차단",
+            "url": "https://news.google.com/read/CBMijwFBVV95cUxPVEVwRVhDMUtOYlNKeGNiMTdEREJHcm5oSVJieWdhQWdJSEJuZ1Q5YUZQSjc3VmV4QmJuMi05RTdWOF9wOWMxWlM0N3hwa1dtZzlKRVl4RVRfa3BQUkd0bGFsbEVHQWt2NnVtUVAxZTkydVNTX0ZHbEgyNjMtWVYwQllNWkFjWFp4WEpaQU1sSQ"
+          }
+        ]
+      }
+    }
+  ]
+}
