@@ -72,6 +72,50 @@
           "url": "https://n.news.naver.com/article/015/0005276695"
         }
       ]
+    },
+    {
+      "type": "ai",
+      "emoji": "🤖",
+      "title": "AI 데일리",
+      "highlight": "Anthropic, Google AI 주요 업데이트 쏟아져",
+      "insight": "Claude Opus 4.7 + Claude Design 연쇄 발표로 엔터프라이즈 AI 경쟁 가속화. 코딩·에이전트·비전 성능 강화와 시각 디자인 협업 도구로 B2B 시장 공략. Google은 TTS·Chrome AI 모드 확장으로 생태계 강화. Cerebras IPO로 AI 칩 시장 경쟁 구도 변화 예고.",
+      "items": [
+        {
+          "text": "Claude Opus 4.7",
+          "insight": "코딩·에이전트·비전·다단계 작업 성능 강화, 엔터프라이즈 최적화",
+          "url": "https://www.anthropic.com/news/claude-opus-4-7"
+        },
+        {
+          "text": "Claude Design",
+          "insight": "Opus 4.7 비전 기반 디자인·프로토타입·슬라이드 제작 도구, Anthropic Labs 첫 제품",
+          "url": "https://www.anthropic.com/news/claude-design-anthropic-labs"
+        },
+        {
+          "text": "OpenAI's existential questions",
+          "insight": "TechCrunch Equity 분석, OpenAI가 해결해야 할 '두 가지 존재론적 문제'",
+          "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/"
+        },
+        {
+          "text": "AI chip startup Cerebras files for IPO",
+          "insight": "AWS 협업과 OpenAI 100억 달러 계약, 대형 칩 아키텍처로 시장 공략",
+          "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/"
+        },
+        {
+          "text": "Gemini 3.1 Flash TTS",
+          "insight": "표현력 있는 AI 음성 차세대, Google 제품 전반 확장 적용",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/"
+        }
+      ],
+      "community": [
+        {
+          "text": "AI 코딩 시대, 성장이 멈추는 개발자의 뇌에서 일어나는 일",
+          "url": "https://evan-moon.github.io/2026/04/18/developers-who-stopped-growing-in-ai-era/"
+        },
+        {
+          "text": "OpenMythos: Claude Mythos를 역설계한 오픈소스 구현 등장",
+          "url": "https://github.com/kyegomez/OpenMythos"
+        }
+      ]
     }
   ]
 }
