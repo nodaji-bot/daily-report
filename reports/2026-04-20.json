@@ -1,0 +1,43 @@
+{
+  "date": "2026-04-20",
+  "reports": [
+    {
+      "type": "economy",
+      "emoji": "📰",
+      "title": "경제 뉴스",
+      "highlight": "호르무즈 해협 긴장 재연으로 원유 가격 급등, 주식 선물 하락",
+      "insight": "중동 불안이 글로벌 에너지 공급과 인플레이션 전망을 다시 뒤흔들며 시장 변동성 증가",
+      "sections": {
+        "🇰🇷 한국": [
+          {
+            "text": "Oil jumps and stock futures slip as Iran tensions unsettle markets",
+            "insight": "이란-호르무즈 긴장 재발로 원유 가격 급등, 주식 선물 하락, 에너지 인플레이션 재유발 가능성",
+            "url": "https://news.google.com/read/CBMihgFBVV95cUxNUDVhUHN1MnI4Rk5ZWTVfcXNRRkhYXzQ2ZlRRajF5eTdoTXBaMXQxVmkyVzBrakttangtMHlLSDNXRmlYc0w0ekxLTFJoYzBqeHBXRmVyVG5KLUcxaEdBM3V5R01jOVJUbkxjdVU2eGdjRkZvRkx1Z2FmcmNtYVZFeE9LeUNLQQ"
+          }
+        ],
+        "🇺🇸 미국": [
+          {
+            "text": "Impact of Iran war will hurt US even after conflict ends, economists warn",
+            "insight": "이란 전쟁의 경제적 여파가 분쟁 종료 후에도 미국 경제에 지속적 타격 예상",
+            "url": "https://news.google.com/read/CBMihAFBVV95cUxOVDU4ZmIxby1Qd09GSXpyVV9RUjF4ZjdxTkZMeDNZeTRZdnItcHdFdjF6MGYyRk04bHVlam5EVTQ3NnE5N0VzY2wtRDNXZjhaUU9hU3dWYXhTaVlueU16d0hkNU92VVR5SGFCdWFXal93UWEzSUF5TGt4cEw0NHFlTllfdmg"
+          },
+          {
+            "text": "IMF warns Treasury bonds losing safety premium",
+            "insight": "미국 국채 안전자산 지위 약화로 글로벌 자본 이동과 달러 기축통화 위협",
+            "url": "https://news.google.com/read/CBMiowFBVV95cUxQaklKUWNFbmV3bldHMVFyaWRWdk5ic0xWVTAtdElaNkw3MXpGTm5FZzdtZHVKeEN4QS1EbGZPOWpKNlFOQ0JteGtBUlVQcjE3SU9ieHg3UlFlYkVsVnhuSF9GM2dTOU1BVTlKcE44UXBiSTVKZy1vTTVSSkxwQ1VVZlFKcUtXQWM5Q1FzVUFKSktiSDZxdEVQcnFJVG45OGtJcnJ3"
+          },
+          {
+            "text": "Gas prices may not drop below $3 a gallon until next year: Energy Secretary",
+            "insight": "고유가 장기화로 통화정책에 추가 압박, 소비자 지출 위축 가능성",
+            "url": "https://news.google.com/read/CBMigAFBVV95cUxNZm1YaDJRMVJQZy15bngXTDhCOXV4S2JFOXVSYkhkZ0pWaXBzY3VVZEVkU0FOaGRILWdmT3pycmNseG9zQXBLS0JwN1JhU3BPSWdJaDFMTmVSZVhDemJEaXh2c1ZHNTk4V2NqM1M1YV9oSjRHZHdLckt2cTN2Mmth"
+          },
+          {
+            "text": "War Revives Stagflation Dangers for Global Economy",
+            "insight": "스태그플레이션 재발 위험으로 글로벌 중앙은행 정책 갈등 심화",
+            "url": "https://news.google.com/read/CBMijAFBVV95cUxQZzd6d21BSk9ZME1FaGpvNElBaThuY0tIWWszM1RuOGtrVUtGQWE0RUlsSkE3QWRsNEhLQnJpNV9lQzVjendwcGpIRTNmVVlwX0RKTVVCZURjSGpHZC01UlNEOG4xX3RpODF6LVFQMFJWUXRUN3JhbDhPa3RLOEwyQXN4dmVmdXNwVk47RA"
+          }
+        ]
+      }
+    }
+  ]
+}
